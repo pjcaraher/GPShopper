@@ -1,0 +1,3365 @@
+00501,Holtsville,New York,NY
+00603,Aguadilla,Puerto Rico,PR
+00612,Arecibo,Puerto Rico,PR
+00680,Mayaguez,Puerto Rico,PR
+00716,Ponce,Puerto Rico,PR
+00725,Caguas,Puerto Rico,PR
+00801,Saint Thomas,Virgin Islands,VI
+00820,Christiansted,Virgin Islands,VI
+00901,San Juan,Puerto Rico,PR
+00949,Toa Baja,Puerto Rico,PR
+00956,Bayamon,Puerto Rico,PR
+00965,Guaynabo,Puerto Rico,PR
+00979,Carolina,Puerto Rico,PR
+01002,Amherst,Massachusetts,MA
+01013,Chicopee,Massachusetts,MA
+01040,Holyoke,Massachusetts,MA
+01060,Northampton,Massachusetts,MA
+01077,Southwick,Massachusetts,MA
+01085,Westfield,Massachusetts,MA
+01101,Springfield,Massachusetts,MA
+01201,Pittsfield,Massachusetts,MA
+01450,Groton,Massachusetts,MA
+01580,Westborough,Massachusetts,MA
+01601,Worcester,Massachusetts,MA
+01701,Framingham,Massachusetts,MA
+01721,Ashland,Massachusetts,MA
+01801,Woburn,Massachusetts,MA
+01810,Andover,Massachusetts,MA
+01830,Haverhill,Massachusetts,MA
+01833,Georgetown,Massachusetts,MA
+01834,Groveland,Massachusetts,MA
+01840,Lawrence,Massachusetts,MA
+01850,Lowell,Massachusetts,MA
+01860,Merrimac,Massachusetts,MA
+01901,Lynn,Massachusetts,MA
+01913,Amesbury,Massachusetts,MA
+01922,Byfield,Massachusetts,MA
+01950,Newburyport,Massachusetts,MA
+01951,Newbury,Massachusetts,MA
+01952,Salisbury,Massachusetts,MA
+01969,Rowley,Massachusetts,MA
+01985,West Newbury,Massachusetts,MA
+02050,Marshfield,Massachusetts,MA
+02101,Boston,Massachusetts,MA
+02109,Boston,Massachusetts,MA
+02138,Cambridge,Massachusetts,MA
+02143,Somerville,Massachusetts,MA
+02169,Quincy,Massachusetts,MA
+02301,Brockton,Massachusetts,MA
+02344,Middleboro,Massachusetts,MA
+02360,Plymouth,Massachusetts,MA
+02451,Waltham,Massachusetts,MA
+02471,Watertown,Massachusetts,MA
+02632,Centerville,Massachusetts,MA
+02720,Fall River,Massachusetts,MA
+02740,New Bedford,Massachusetts,MA
+02860,Pawtucket,Rhode Island,RI
+02864,Cumberland,Rhode Island,RI
+02886,Warwick,Rhode Island,RI
+02901,Providence,Rhode Island,RI
+02905,Providence,Rhode Island,RI
+02910,Cranston,Rhode Island,RI
+02920,Cranston,Rhode Island,RI
+03031,Amherst,New Hampshire,NH
+03032,Auburn,New Hampshire,NH
+03033,Brookline,New Hampshire,NH
+03034,Candia,New Hampshire,NH
+03036,Chester,New Hampshire,NH
+03037,Deerfield,New Hampshire,NH
+03038,Derry,New Hampshire,NH
+03040,East Candia,New Hampshire,NH
+03041,East Derry,New Hampshire,NH
+03042,Epping,New Hampshire,NH
+03043,Francestown,New Hampshire,NH
+03044,Fremont,New Hampshire,NH
+03045,Goffstown,New Hampshire,NH
+03046,Dunbarton,New Hampshire,NH
+03048,Greenville,New Hampshire,NH
+03049,Hollis,New Hampshire,NH
+03051,Hudson,New Hampshire,NH
+03052,Litchfield,New Hampshire,NH
+03053,Londonderry,New Hampshire,NH
+03054,Merrimack,New Hampshire,NH
+03055,Milford,New Hampshire,NH
+03057,Mont Vernon,New Hampshire,NH
+03060,Nashua,New Hampshire,NH
+03070,New Boston,New Hampshire,NH
+03071,New Ipswich,New Hampshire,NH
+03077,Raymond,New Hampshire,NH
+03082,Lyndeborough,New Hampshire,NH
+03084,Temple,New Hampshire,NH
+03086,Wilton,New Hampshire,NH
+03087,Windham,New Hampshire,NH
+03101,Manchester,New Hampshire,NH
+03106,Hooksett,New Hampshire,NH
+03110,Bedford,New Hampshire,NH
+03216,Andover,New Hampshire,NH
+03217,Ashland,New Hampshire,NH
+03218,Barnstead,New Hampshire,NH
+03220,Belmont,New Hampshire,NH
+03221,Bradford,New Hampshire,NH
+03222,Bristol,New Hampshire,NH
+03223,Campton,New Hampshire,NH
+03224,Canterbury,New Hampshire,NH
+03225,Center Barnstead,New Hampshire,NH
+03226,Center Harbor,New Hampshire,NH
+03227,Center Sandwich,New Hampshire,NH
+03229,Contoocook,New Hampshire,NH
+03230,Danbury,New Hampshire,NH
+03231,East Andover,New Hampshire,NH
+03234,Epsom,New Hampshire,NH
+03235,Franklin,New Hampshire,NH
+03237,Gilmanton,New Hampshire,NH
+03241,Hebron,New Hampshire,NH
+03242,Henniker,New Hampshire,NH
+03243,Hill,New Hampshire,NH
+03244,Hillsboro,New Hampshire,NH
+03245,Holderness,New Hampshire,NH
+03246,Laconia,New Hampshire,NH
+03249,Gilford,New Hampshire,NH
+03252,Lochmere,New Hampshire,NH
+03253,Meredith,New Hampshire,NH
+03254,Moultonborough,New Hampshire,NH
+03256,New Hampton,New Hampshire,NH
+03258,Chichester,New Hampshire,NH
+03259,North Sandwich,New Hampshire,NH
+03260,North Sutton,New Hampshire,NH
+03261,Northwood,New Hampshire,NH
+03263,Pittsfield,New Hampshire,NH
+03264,Plymouth,New Hampshire,NH
+03266,Rumney,New Hampshire,NH
+03268,Salisbury,New Hampshire,NH
+03269,Sanbornton,New Hampshire,NH
+03273,South Sutton,New Hampshire,NH
+03275,Suncook,New Hampshire,NH
+03276,Tilton,New Hampshire,NH
+03278,Warner,New Hampshire,NH
+03280,Washington,New Hampshire,NH
+03281,Weare,New Hampshire,NH
+03289,Winnisquam,New Hampshire,NH
+03290,Nottingham,New Hampshire,NH
+03301,Concord,New Hampshire,NH
+03304,Bow,New Hampshire,NH
+03307,Loudon,New Hampshire,NH
+03440,Antrim,New Hampshire,NH
+03801,Portsmouth,New Hampshire,NH
+03809,Alton,New Hampshire,NH
+03810,Alton Bay,New Hampshire,NH
+03811,Atkinson,New Hampshire,NH
+03812,Bartlett,New Hampshire,NH
+03813,Center Conway,New Hampshire,NH
+03814,Center Ossipee,New Hampshire,NH
+03815,Center Strafford,New Hampshire,NH
+03816,Center Tuftonboro,New Hampshire,NH
+03817,Chocorua,New Hampshire,NH
+03818,Conway,New Hampshire,NH
+03819,Danville,New Hampshire,NH
+03820,Dover,New Hampshire,NH
+03824,Durham,New Hampshire,NH
+03825,Barrington,New Hampshire,NH
+03826,East Hampstead,New Hampshire,NH
+03827,East Kingston,New Hampshire,NH
+03830,East Wakefield,New Hampshire,NH
+03832,Eaton Center,New Hampshire,NH
+03833,Exeter,New Hampshire,NH
+03835,Farmington,New Hampshire,NH
+03836,Freedom,New Hampshire,NH
+03837,Gilmanton Iron Works,New Hampshire,NH
+03838,Glen,New Hampshire,NH
+03839,Rochester,New Hampshire,NH
+03840,Greenland,New Hampshire,NH
+03841,Hampstead,New Hampshire,NH
+03842,Hampton,New Hampshire,NH
+03844,Hampton Falls,New Hampshire,NH
+03846,Jackson,New Hampshire,NH
+03847,Kearsarge,New Hampshire,NH
+03848,Kingston,New Hampshire,NH
+03849,Madison,New Hampshire,NH
+03850,Melvin Village,New Hampshire,NH
+03851,Milton,New Hampshire,NH
+03852,Milton Mills,New Hampshire,NH
+03853,Mirror Lake,New Hampshire,NH
+03854,New Castle,New Hampshire,NH
+03855,New Durham,New Hampshire,NH
+03856,Newfields,New Hampshire,NH
+03857,Newmarket,New Hampshire,NH
+03858,Newton,New Hampshire,NH
+03860,North Conway,New Hampshire,NH
+03862,North Hampton,New Hampshire,NH
+03864,Ossipee,New Hampshire,NH
+03865,Plaistow,New Hampshire,NH
+03869,Rollinsford,New Hampshire,NH
+03870,Rye,New Hampshire,NH
+03872,Sanbornville,New Hampshire,NH
+03873,Sandown,New Hampshire,NH
+03874,Seabrook,New Hampshire,NH
+03875,Silver Lake,New Hampshire,NH
+03878,Somersworth,New Hampshire,NH
+03882,Effingham,New Hampshire,NH
+03883,South Tamworth,New Hampshire,NH
+03884,Strafford,New Hampshire,NH
+03885,Stratham,New Hampshire,NH
+03886,Tamworth,New Hampshire,NH
+03887,Union,New Hampshire,NH
+03890,West Ossipee,New Hampshire,NH
+03894,Wolfeboro,New Hampshire,NH
+03896,Wolfeboro Falls,New Hampshire,NH
+03897,Wonalancet,New Hampshire,NH
+03901,Berwick,Maine,ME
+03902,Cape Neddick,Maine,ME
+03903,Eliot,Maine,ME
+03904,Kittery,Maine,ME
+03905,Kittery Point,Maine,ME
+03906,North Berwick,Maine,ME
+03907,Ogunquit,Maine,ME
+03908,South Berwick,Maine,ME
+03909,York,Maine,ME
+03910,York Beach,Maine,ME
+03911,York Harbor,Maine,ME
+04001,Acton,Maine,ME
+04002,Alfred,Maine,ME
+04003,Bailey Island,Maine,ME
+04004,Bar Mills,Maine,ME
+04005,Biddeford,Maine,ME
+04006,Biddeford Pool,Maine,ME
+04008,Bowdoinham,Maine,ME
+04010,Brownfield,Maine,ME
+04011,Brunswick,Maine,ME
+04014,Cape Porpoise,Maine,ME
+04017,Chebeague Island,Maine,ME
+04020,Cornish,Maine,ME
+04021,Cumberland Center,Maine,ME
+04027,Lebanon,Maine,ME
+04028,East Parsonfield,Maine,ME
+04030,East Waterboro,Maine,ME
+04032,Freeport,Maine,ME
+04037,Fryeburg,Maine,ME
+04038,Gorham,Maine,ME
+04039,Gray,Maine,ME
+04042,Hollis Center,Maine,ME
+04043,Kennebunk,Maine,ME
+04046,Kennebunkport,Maine,ME
+04047,Parsonsfield,Maine,ME
+04048,Limerick,Maine,ME
+04049,Limington,Maine,ME
+04050,Long Island,Maine,ME
+04051,Lovell,Maine,ME
+04054,Moody,Maine,ME
+04056,Newfield,Maine,ME
+04061,North Waterboro,Maine,ME
+04062,Windham,Maine,ME
+04063,Ocean Park,Maine,ME
+04064,Old Orchard Beach,Maine,ME
+04066,Orrs Island,Maine,ME
+04069,Pownal,Maine,ME
+04070,Scarborough,Maine,ME
+04071,Raymond,Maine,ME
+04072,Saco,Maine,ME
+04073,Sanford,Maine,ME
+04076,Shapleigh,Maine,ME
+04078,South Freeport,Maine,ME
+04079,Harpswell,Maine,ME
+04082,South Windham,Maine,ME
+04083,Springvale,Maine,ME
+04084,Standish,Maine,ME
+04085,Steep Falls,Maine,ME
+04086,Topsham,Maine,ME
+04087,Waterboro,Maine,ME
+04090,Wells,Maine,ME
+04092,Westbrook,Maine,ME
+04093,Buxton,Maine,ME
+04094,West Kennebunk,Maine,ME
+04095,West Newfield,Maine,ME
+04096,Yarmouth,Maine,ME
+04097,North Yarmouth,Maine,ME
+04101,Portland,Maine,ME
+04105,Falmouth,Maine,ME
+04106,South Portland,Maine,ME
+04107,Cape Elizabeth,Maine,ME
+04108,Peaks Island,Maine,ME
+04110,Cumberland Foreside,Maine,ME
+04210,Auburn,Maine,ME
+04220,Buckfield,Maine,ME
+04222,Durham,Maine,ME
+04223,Danville,Maine,ME
+04230,East Poland,Maine,ME
+04236,Greene,Maine,ME
+04238,Hebron,Maine,ME
+04240,Lewiston,Maine,ME
+04250,Lisbon,Maine,ME
+04252,Lisbon Falls,Maine,ME
+04253,Livermore,Maine,ME
+04256,Mechanic Falls,Maine,ME
+04258,Minot,Maine,ME
+04260,New Gloucester,Maine,ME
+04263,Leeds,Maine,ME
+04266,North Turner,Maine,ME
+04268,Norway,Maine,ME
+04270,Oxford,Maine,ME
+04271,Paris,Maine,ME
+04274,Poland,Maine,ME
+04280,Sabattus,Maine,ME
+04281,South Paris,Maine,ME
+04282,Turner,Maine,ME
+04287,Bowdoin,Maine,ME
+04288,West Minot,Maine,ME
+04291,West Poland,Maine,ME
+04330,Augusta,Maine,ME
+04342,Dresden,Maine,ME
+04530,Bath,Maine,ME
+04535,Alna,Maine,ME
+04537,Boothbay,Maine,ME
+04539,Bristol,Maine,ME
+04541,Chamberlain,Maine,ME
+04543,Damariscotta,Maine,ME
+04544,East Boothbay,Maine,ME
+04548,Georgetown,Maine,ME
+04551,Bremen,Maine,ME
+04555,Nobleboro,Maine,ME
+04556,Edgecomb,Maine,ME
+04558,Pemaquid,Maine,ME
+04562,Phippsburg,Maine,ME
+04564,Round Pond,Maine,ME
+04568,South Bristol,Maine,ME
+04570,Squirrel Island,Maine,ME
+04571,Trevett,Maine,ME
+04573,Walpole,Maine,ME
+04575,West Boothbay Harbor,Maine,ME
+04576,Southport,Maine,ME
+04578,Wiscasset,Maine,ME
+04579,Woolwich,Maine,ME
+05301,Brattleboro,Vermont,VT
+05401,Burlington,Vermont,VT
+05439,Colchester,Vermont,VT
+05601,Montpelier,Vermont,VT
+06001,Avon,Connecticut,CT
+06002,Bloomfield,Connecticut,CT
+06010,Bristol,Connecticut,CT
+06018,Canaan,Connecticut,CT
+06023,East Berlin,Connecticut,CT
+06026,East Granby,Connecticut,CT
+06029,Ellington,Connecticut,CT
+06030,Farmington,Connecticut,CT
+06032,Farmington,Connecticut,CT
+06033,Glastonbury,Connecticut,CT
+06035,Granby,Connecticut,CT
+06037,Berlin,Connecticut,CT
+06040,Manchester,Connecticut,CT
+06050,New Britain,Connecticut,CT
+06051,New Britain,Connecticut,CT
+06062,Plainville,Connecticut,CT
+06067,Rocky Hill,Connecticut,CT
+06074,South Windsor,Connecticut,CT
+06076,Stafford Springs,Connecticut,CT
+06082,Enfield,Connecticut,CT
+06088,East Windsor,Connecticut,CT
+06093,West Suffield,Connecticut,CT
+06095,Windsor,Connecticut,CT
+06096,Windsor Locks,Connecticut,CT
+06101,Hartford,Connecticut,CT
+06107,West Hartford,Connecticut,CT
+06108,East Hartford,Connecticut,CT
+06109,Wethersfield,Connecticut,CT
+06110,West Hartford,Connecticut,CT
+06111,Newington,Connecticut,CT
+06226,Willimantic,Connecticut,CT
+06239,Danielson,Connecticut,CT
+06333,East Lyme,Connecticut,CT
+06334,Bozrah,Connecticut,CT
+06340,Groton,Connecticut,CT
+06359,North Stonington,Connecticut,CT
+06360,Norwich,Connecticut,CT
+06385,Waterford,Connecticut,CT
+06401,Ansonia,Connecticut,CT
+06403,Beacon Falls,Connecticut,CT
+06405,Branford,Connecticut,CT
+06408,Cheshire,Connecticut,CT
+06409,Centerbrook,Connecticut,CT
+06410,Cheshire,Connecticut,CT
+06412,Chester,Connecticut,CT
+06416,Cromwell,Connecticut,CT
+06418,Derby,Connecticut,CT
+06422,Durham,Connecticut,CT
+06426,Essex,Connecticut,CT
+06437,Guilford,Connecticut,CT
+06441,Higganum,Connecticut,CT
+06443,Madison,Connecticut,CT
+06447,Marlborough,Connecticut,CT
+06450,Meriden,Connecticut,CT
+06457,Middletown,Connecticut,CT
+06460,Milford,Connecticut,CT
+06467,Milldale,Connecticut,CT
+06468,Monroe,Connecticut,CT
+06470,Newtown,Connecticut,CT
+06471,North Branford,Connecticut,CT
+06472,Northford,Connecticut,CT
+06473,North Haven,Connecticut,CT
+06475,Old Saybrook,Connecticut,CT
+06477,Orange,Connecticut,CT
+06478,Oxford,Connecticut,CT
+06480,Portland,Connecticut,CT
+06482,Sandy Hook,Connecticut,CT
+06483,Seymour,Connecticut,CT
+06484,Shelton,Connecticut,CT
+06488,Southbury,Connecticut,CT
+06489,Southington,Connecticut,CT
+06491,Stevenson,Connecticut,CT
+06492,Wallingford,Connecticut,CT
+06497,Stratford,Connecticut,CT
+06498,Westbrook,Connecticut,CT
+06501,New Haven,Connecticut,CT
+06512,East Haven,Connecticut,CT
+06514,Hamden,Connecticut,CT
+06516,West Haven,Connecticut,CT
+06525,Woodbridge,Connecticut,CT
+06601,Bridgeport,Connecticut,CT
+06611,Trumbull,Connecticut,CT
+06612,Easton,Connecticut,CT
+06614,Stratford,Connecticut,CT
+06701,Waterbury,Connecticut,CT
+06712,Prospect,Connecticut,CT
+06716,Wolcott,Connecticut,CT
+06751,Bethlehem,Connecticut,CT
+06752,Bridgewater,Connecticut,CT
+06755,Gaylordsville,Connecticut,CT
+06757,Kent,Connecticut,CT
+06759,Litchfield,Connecticut,CT
+06762,Middlebury,Connecticut,CT
+06763,Morris,Connecticut,CT
+06770,Naugatuck,Connecticut,CT
+06776,New Milford,Connecticut,CT
+06779,Oakville,Connecticut,CT
+06783,Roxbury,Connecticut,CT
+06784,Sherman,Connecticut,CT
+06786,Terryville,Connecticut,CT
+06790,Torrington,Connecticut,CT
+06795,Watertown,Connecticut,CT
+06798,Woodbury,Connecticut,CT
+06801,Bethel,Connecticut,CT
+06804,Brookfield,Connecticut,CT
+06807,Cos Cob,Connecticut,CT
+06810,Danbury,Connecticut,CT
+06812,New Fairfield,Connecticut,CT
+06820,Darien,Connecticut,CT
+06824,Fairfield,Connecticut,CT
+06829,Georgetown,Connecticut,CT
+06830,Greenwich,Connecticut,CT
+06838,Greens Farms,Connecticut,CT
+06840,New Canaan,Connecticut,CT
+06850,Norwalk,Connecticut,CT
+06870,Old Greenwich,Connecticut,CT
+06877,Ridgefield,Connecticut,CT
+06878,Riverside,Connecticut,CT
+06880,Westport,Connecticut,CT
+06883,Weston,Connecticut,CT
+06890,Southport,Connecticut,CT
+06896,Redding,Connecticut,CT
+06897,Wilton,Connecticut,CT
+06901,Stamford,Connecticut,CT
+07011,Clifton,New Jersey,NJ
+07017,East Orange,New Jersey,NJ
+07024,Fort Lee,New Jersey,NJ
+07033,Kenilworth,New Jersey,NJ
+07047,North Bergen,New Jersey,NJ
+07060,Plainfield,New Jersey,NJ
+07070,Rutherford,New Jersey,NJ
+07097,Jersey City,New Jersey,NJ
+07101,Newark,New Jersey,NJ
+07201,Elizabeth,New Jersey,NJ
+07407,Elmwood Park,New Jersey,NJ
+07444,Pompton Plains,New Jersey,NJ
+07470,Wayne,New Jersey,NJ
+07501,Paterson,New Jersey,NJ
+07512,Totowa,New Jersey,NJ
+07601,Hackensack,New Jersey,NJ
+07663,Saddle Brook,New Jersey,NJ
+07675,Westwood,New Jersey,NJ
+07960,Morristown,New Jersey,NJ
+07981,Whippany,New Jersey,NJ
+08002,Cherry Hill,New Jersey,NJ
+08101,Camden,New Jersey,NJ
+08360,Vineland,New Jersey,NJ
+08401,Atlantic City,New Jersey,NJ
+08540,Princeton,New Jersey,NJ
+08601,Trenton,New Jersey,NJ
+08753,Toms River,New Jersey,NJ
+08817,Edison,New Jersey,NJ
+08901,New Brunswick,New Jersey,NJ
+10001,New York,New York,NY
+10301,Staten Island,New York,NY
+10451,Bronx,New York,NY
+10502,Ardsley,New York,NY
+10504,Armonk,New York,NY
+10506,Bedford,New York,NY
+10507,Bedford Hills,New York,NY
+10509,Brewster,New York,NY
+10512,Carmel,New York,NY
+10516,Cold Spring,New York,NY
+10523,Elmsford,New York,NY
+10528,Harrison,New York,NY
+10530,Hartsdale,New York,NY
+10532,Hawthorne,New York,NY
+10536,Katonah,New York,NY
+10538,Larchmont,New York,NY
+10543,Mamaroneck,New York,NY
+10549,Mount Kisco,New York,NY
+10550,Mount Vernon,New York,NY
+10560,North Salem,New York,NY
+10562,Ossining,New York,NY
+10566,Peekskill,New York,NY
+10570,Pleasantville,New York,NY
+10573,Port Chester,New York,NY
+10576,Pound Ridge,New York,NY
+10577,Purchase,New York,NY
+10580,Rye,New York,NY
+10583,Scarsdale,New York,NY
+10590,South Salem,New York,NY
+10591,Tarrytown,New York,NY
+10598,Yorktown Heights,New York,NY
+10601,White Plains,New York,NY
+10604,West Harrison,New York,NY
+10701,Yonkers,New York,NY
+10708,Bronxville,New York,NY
+10709,Eastchester,New York,NY
+10801,New Rochelle,New York,NY
+10803,Pelham,New York,NY
+10918,Chester,New York,NY
+10920,Congers,New York,NY
+10931,Hillburn,New York,NY
+10940,Middletown,New York,NY
+10958,New Hampton,New York,NY
+10965,Pearl River,New York,NY
+10968,Piermont,New York,NY
+11001,Floral Park,New York,NY
+11020,Great Neck,New York,NY
+11040,New Hyde Park,New York,NY
+11041,New Hyde Park,New York,NY
+11050,Port Washington,New York,NY
+11101,Long Island City,New York,NY
+11102,Astoria,New York,NY
+11201,Brooklyn,New York,NY
+11204,Brooklyn,New York,NY
+11351,Flushing,New York,NY
+11359,Bayside,New York,NY
+11373,Elmhurst,New York,NY
+11405,Jamaica,New York,NY
+11418,Richmond Hill,New York,NY
+11427,Queens Village,New York,NY
+11435,Jamaica,New York,NY
+11520,Freeport,New York,NY
+11530,Garden City,New York,NY
+11549,Hempstead,New York,NY
+11553,Uniondale,New York,NY
+11570,Rockville Centre,New York,NY
+11575,Roosevelt,New York,NY
+11577,Roslyn Heights,New York,NY
+11580,Valley Stream,New York,NY
+11590,Westbury,New York,NY
+11690,Far Rockaway,New York,NY
+11729,Deer Park,New York,NY
+11735,Farmingdale,New York,NY
+11742,Holtsville,New York,NY
+11747,Melville,New York,NY
+11758,Massapequa,New York,NY
+11763,Medford,New York,NY
+11788,Hauppauge,New York,NY
+11791,Syosset,New York,NY
+11801,Hicksville,New York,NY
+12007,Alcove,New York,NY
+12008,Alplaus,New York,NY
+12009,Altamont,New York,NY
+12010,Amsterdam,New York,NY
+12018,Averill Park,New York,NY
+12019,Ballston Lake,New York,NY
+12020,Ballston Spa,New York,NY
+12022,Berlin,New York,NY
+12023,Berne,New York,NY
+12024,Brainard,New York,NY
+12027,Burnt Hills,New York,NY
+12028,Buskirk,New York,NY
+12033,Castleton on Hudson,New York,NY
+12041,Clarksville,New York,NY
+12046,Coeymans Hollow,New York,NY
+12047,Cohoes,New York,NY
+12052,Cropseyville,New York,NY
+12053,Delanson,New York,NY
+12054,Delmar,New York,NY
+12056,Duanesburg,New York,NY
+12059,East Berne,New York,NY
+12061,East Greenbush,New York,NY
+12062,East Nassau,New York,NY
+12063,East Schodack,New York,NY
+12065,Clifton Park,New York,NY
+12066,Esperance,New York,NY
+12067,Feura Bush,New York,NY
+12068,Fonda,New York,NY
+12069,Fort Hunter,New York,NY
+12070,Fort Johnson,New York,NY
+12074,Galway,New York,NY
+12077,Glenmont,New York,NY
+12078,Gloversville,New York,NY
+12082,Grafton,New York,NY
+12084,Guilderland,New York,NY
+12085,Guilderland Center,New York,NY
+12086,Hagaman,New York,NY
+12094,Johnsonville,New York,NY
+12095,Johnstown,New York,NY
+12107,Knox,New York,NY
+12110,Latham,New York,NY
+12118,Mechanicville,New York,NY
+12121,Melrose,New York,NY
+12123,Nassau,New York,NY
+12128,Newtonville,New York,NY
+12137,Pattersonville,New York,NY
+12138,Petersburg,New York,NY
+12140,Poestenkill,New York,NY
+12141,Quaker Street,New York,NY
+12143,Ravena,New York,NY
+12144,Rensselaer,New York,NY
+12148,Rexford,New York,NY
+12150,Rotterdam Junction,New York,NY
+12151,Round Lake,New York,NY
+12153,Sand Lake,New York,NY
+12154,Schaghticoke,New York,NY
+12158,Selkirk,New York,NY
+12159,Slingerlands,New York,NY
+12161,South Bethlehem,New York,NY
+12167,Stamford,New York,NY
+12170,Stillwater,New York,NY
+12177,Tribes Hill,New York,NY
+12179,Troy,New York,NY
+12185,Valley Falls,New York,NY
+12186,Voorheesville,New York,NY
+12188,Waterford,New York,NY
+12189,Watervliet,New York,NY
+12193,Westerlo,New York,NY
+12196,West Sand Lake,New York,NY
+12198,Wynantskill,New York,NY
+12201,Albany,New York,NY
+12301,Schenectady,New York,NY
+12522,Dover Plains,New York,NY
+12531,Holmes,New York,NY
+12550,Newburgh,New York,NY
+12564,Pawling,New York,NY
+12582,Stormville,New York,NY
+12590,Wappingers Falls,New York,NY
+12601,Poughkeepsie,New York,NY
+12801,Glens Falls,New York,NY
+12803,South Glens Falls,New York,NY
+12804,Queensbury,New York,NY
+12808,Adirondack,New York,NY
+12809,Argyle,New York,NY
+12810,Athol,New York,NY
+12814,Bolton Landing,New York,NY
+12815,Brant Lake,New York,NY
+12816,Cambridge,New York,NY
+12817,Chestertown,New York,NY
+12819,Clemons,New York,NY
+12820,Cleverdale,New York,NY
+12821,Comstock,New York,NY
+12822,Corinth,New York,NY
+12823,Cossayuna,New York,NY
+12824,Diamond Point,New York,NY
+12827,Fort Ann,New York,NY
+12828,Fort Edward,New York,NY
+12831,Gansevoort,New York,NY
+12832,Granville,New York,NY
+12833,Greenfield Center,New York,NY
+12834,Greenwich,New York,NY
+12835,Hadley,New York,NY
+12837,Hampton,New York,NY
+12838,Hartford,New York,NY
+12839,Hudson Falls,New York,NY
+12841,Huletts Landing,New York,NY
+12844,Kattskill Bay,New York,NY
+12845,Lake George,New York,NY
+12846,Lake Luzerne,New York,NY
+12848,Middle Falls,New York,NY
+12849,Middle Granville,New York,NY
+12850,Middle Grove,New York,NY
+12854,North Granville,New York,NY
+12859,Porter Corners,New York,NY
+12860,Pottersville,New York,NY
+12862,Riparius,New York,NY
+12863,Rock City Falls,New York,NY
+12865,Salem,New York,NY
+12866,Saratoga Springs,New York,NY
+12871,Schuylerville,New York,NY
+12873,Shushan,New York,NY
+12874,Silver Bay,New York,NY
+12878,Stony Creek,New York,NY
+12884,Victory Mills,New York,NY
+12885,Warrensburg,New York,NY
+12887,Whitehall,New York,NY
+12911,Keeseville,New York,NY
+13021,Auburn,New York,NY
+13088,Liverpool,New York,NY
+13201,Syracuse,New York,NY
+13440,Rome,New York,NY
+13501,Utica,New York,NY
+13760,Endicott,New York,NY
+13901,Binghamton,New York,NY
+14001,Akron,New York,NY
+14004,Alden,New York,NY
+14005,Alexander,New York,NY
+14006,Angola,New York,NY
+14008,Appleton,New York,NY
+14009,Arcade,New York,NY
+14010,Athol Springs,New York,NY
+14011,Attica,New York,NY
+14012,Barker,New York,NY
+14020,Batavia,New York,NY
+14024,Bliss,New York,NY
+14025,Boston,New York,NY
+14026,Bowmansville,New York,NY
+14027,Brant,New York,NY
+14028,Burt,New York,NY
+14029,Centerville,New York,NY
+14030,Chaffee,New York,NY
+14031,Clarence,New York,NY
+14032,Clarence Center,New York,NY
+14033,Colden,New York,NY
+14034,Collins,New York,NY
+14035,Collins Center,New York,NY
+14036,Corfu,New York,NY
+14037,Cowlesville,New York,NY
+14038,Crittenden,New York,NY
+14040,Darien Center,New York,NY
+14041,Dayton,New York,NY
+14042,Delevan,New York,NY
+14043,Depew,New York,NY
+14047,Derby,New York,NY
+14048,Dunkirk,New York,NY
+14051,East Amherst,New York,NY
+14052,East Aurora,New York,NY
+14054,East Bethany,New York,NY
+14055,East Concord,New York,NY
+14056,East Pembroke,New York,NY
+14057,Eden,New York,NY
+14058,Elba,New York,NY
+14059,Elma,New York,NY
+14060,Farmersville Station,New York,NY
+14061,Farnham,New York,NY
+14062,Forestville,New York,NY
+14063,Fredonia,New York,NY
+14065,Freedom,New York,NY
+14067,Gasport,New York,NY
+14068,Getzville,New York,NY
+14069,Glenwood,New York,NY
+14070,Gowanda,New York,NY
+14072,Grand Island,New York,NY
+14075,Hamburg,New York,NY
+14080,Holland,New York,NY
+14081,Irving,New York,NY
+14082,Java Center,New York,NY
+14083,Java Village,New York,NY
+14085,Lake View,New York,NY
+14086,Lancaster,New York,NY
+14091,Lawtons,New York,NY
+14092,Lewiston,New York,NY
+14094,Lockport,New York,NY
+14098,Lyndonville,New York,NY
+14101,Machias,New York,NY
+14102,Marilla,New York,NY
+14103,Medina,New York,NY
+14105,Middleport,New York,NY
+14107,Model City,New York,NY
+14108,Newfane,New York,NY
+14109,Niagara University,New York,NY
+14110,North Boston,New York,NY
+14111,North Collins,New York,NY
+14112,North Evans,New York,NY
+14113,North Java,New York,NY
+14120,North Tonawanda,New York,NY
+14125,Oakfield,New York,NY
+14126,Olcott,New York,NY
+14127,Orchard Park,New York,NY
+14129,Perrysburg,New York,NY
+14131,Ransomville,New York,NY
+14132,Sanborn,New York,NY
+14133,Sandusky,New York,NY
+14134,Sardinia,New York,NY
+14135,Sheridan,New York,NY
+14136,Silver Creek,New York,NY
+14138,South Dayton,New York,NY
+14139,South Wales,New York,NY
+14140,Spring Brook,New York,NY
+14141,Springville,New York,NY
+14143,Stafford,New York,NY
+14145,Strykersville,New York,NY
+14150,Tonawanda,New York,NY
+14166,Van Buren Point,New York,NY
+14167,Varysburg,New York,NY
+14168,Versailles,New York,NY
+14169,Wales Center,New York,NY
+14170,West Falls,New York,NY
+14171,West Valley,New York,NY
+14172,Wilson,New York,NY
+14173,Yorkshire,New York,NY
+14174,Youngstown,New York,NY
+14201,Buffalo,New York,NY
+14301,Niagara Falls,New York,NY
+14416,Bergen,New York,NY
+14422,Byron,New York,NY
+14437,Dansville,New York,NY
+14479,Knowlesville,New York,NY
+14482,Le Roy,New York,NY
+14512,Naples,New York,NY
+14525,Pavilion,New York,NY
+14529,Perkinsville,New York,NY
+14557,South Byron,New York,NY
+14569,Warsaw,New York,NY
+14572,Wayland,New York,NY
+14591,Wyoming,New York,NY
+14602,Rochester,New York,NY
+14606,Rochester,New York,NY
+14701,Jamestown,New York,NY
+14706,Allegany,New York,NY
+14707,Allentown,New York,NY
+14708,Alma,New York,NY
+14709,Angelica,New York,NY
+14710,Ashville,New York,NY
+14711,Belfast,New York,NY
+14712,Bemus Point,New York,NY
+14714,Black Creek,New York,NY
+14715,Bolivar,New York,NY
+14716,Brocton,New York,NY
+14717,Caneadea,New York,NY
+14718,Cassadaga,New York,NY
+14719,Cattaraugus,New York,NY
+14720,Celoron,New York,NY
+14721,Ceres,New York,NY
+14722,Chautauqua,New York,NY
+14723,Cherry Creek,New York,NY
+14724,Clymer,New York,NY
+14726,Conewango Valley,New York,NY
+14727,Cuba,New York,NY
+14728,Dewittville,New York,NY
+14729,East Otto,New York,NY
+14730,East Randolph,New York,NY
+14731,Ellicottville,New York,NY
+14732,Ellington,New York,NY
+14733,Falconer,New York,NY
+14735,Fillmore,New York,NY
+14736,Findley Lake,New York,NY
+14737,Franklinville,New York,NY
+14738,Frewsburg,New York,NY
+14739,Friendship,New York,NY
+14740,Gerry,New York,NY
+14741,Great Valley,New York,NY
+14742,Greenhurst,New York,NY
+14743,Hinsdale,New York,NY
+14744,Houghton,New York,NY
+14745,Hume,New York,NY
+14747,Kennedy,New York,NY
+14748,Kill Buck,New York,NY
+14750,Lakewood,New York,NY
+14751,Leon,New York,NY
+14752,Lily Dale,New York,NY
+14753,Limestone,New York,NY
+14754,Little Genesee,New York,NY
+14755,Little Valley,New York,NY
+14756,Maple Springs,New York,NY
+14757,Mayville,New York,NY
+14758,Niobe,New York,NY
+14760,Olean,New York,NY
+14766,Otto,New York,NY
+14767,Panama,New York,NY
+14769,Portland,New York,NY
+14770,Portville,New York,NY
+14772,Randolph,New York,NY
+14774,Richburg,New York,NY
+14775,Ripley,New York,NY
+14777,Rushford,New York,NY
+14779,Salamanca,New York,NY
+14781,Sherman,New York,NY
+14782,Sinclairville,New York,NY
+14783,Steamburg,New York,NY
+14784,Stockton,New York,NY
+14785,Stow,New York,NY
+14786,West Clarksville,New York,NY
+14787,Westfield,New York,NY
+14788,Westons Mills,New York,NY
+14802,Alfred,New York,NY
+14803,Alfred Station,New York,NY
+14804,Almond,New York,NY
+14806,Andover,New York,NY
+14807,Arkport,New York,NY
+14808,Atlanta,New York,NY
+14809,Avoca,New York,NY
+14810,Bath,New York,NY
+14813,Belmont,New York,NY
+14819,Cameron,New York,NY
+14820,Cameron Mills,New York,NY
+14822,Canaseraga,New York,NY
+14823,Canisteo,New York,NY
+14826,Cohocton,New York,NY
+14839,Greenwood,New York,NY
+14840,Hammondsport,New York,NY
+14843,Hornell,New York,NY
+14850,Ithaca,New York,NY
+14855,Jasper,New York,NY
+14856,Kanona,New York,NY
+14873,Prattsburgh,New York,NY
+14877,Rexville,New York,NY
+14880,Scio,New York,NY
+14884,Swain,New York,NY
+14885,Troupsburg,New York,NY
+14895,Wellsville,New York,NY
+14897,Whitesville,New York,NY
+14901,Elmira,New York,NY
+15086,Warrendale,Pennsylvania,PA
+15130,McKeesport,Pennsylvania,PA
+15201,Pittsburgh,Pennsylvania,PA
+15222,Pittsburgh,Pennsylvania,PA
+15601,Greensburg,Pennsylvania,PA
+15613,Apollo,Pennsylvania,PA
+15656,Leechburg,Pennsylvania,PA
+15673,North Apollo,Pennsylvania,PA
+15682,Schenley,Pennsylvania,PA
+15686,Spring Church,Pennsylvania,PA
+15690,Vandergrift,Pennsylvania,PA
+15711,Anita,Pennsylvania,PA
+15715,Big Run,Pennsylvania,PA
+15721,Burnside,Pennsylvania,PA
+15730,Coolspring,Pennsylvania,PA
+15733,De Lancey,Pennsylvania,PA
+15736,Elderton,Pennsylvania,PA
+15744,Hamilton,Pennsylvania,PA
+15753,La Jose,Pennsylvania,PA
+15757,Mahaffey,Pennsylvania,PA
+15764,Oliveburg,Pennsylvania,PA
+15767,Punxsutawney,Pennsylvania,PA
+15770,Ringgold,Pennsylvania,PA
+15776,Sprankle Mills,Pennsylvania,PA
+15778,Timblin,Pennsylvania,PA
+15780,Valier,Pennsylvania,PA
+15781,Walston,Pennsylvania,PA
+15784,Worthville,Pennsylvania,PA
+15801,Du Bois,Pennsylvania,PA
+15821,Benezett,Pennsylvania,PA
+15823,Brockport,Pennsylvania,PA
+15824,Brockway,Pennsylvania,PA
+15825,Brookville,Pennsylvania,PA
+15827,Byrnedale,Pennsylvania,PA
+15828,Clarington,Pennsylvania,PA
+15829,Corsica,Pennsylvania,PA
+15831,Dagus Mines,Pennsylvania,PA
+15832,Driftwood,Pennsylvania,PA
+15834,Emporium,Pennsylvania,PA
+15840,Falls Creek,Pennsylvania,PA
+15841,Force,Pennsylvania,PA
+15845,Johnsonburg,Pennsylvania,PA
+15846,Kersey,Pennsylvania,PA
+15847,Knox Dale,Pennsylvania,PA
+15848,Luthersburg,Pennsylvania,PA
+15849,Penfield,Pennsylvania,PA
+15851,Reynoldsville,Pennsylvania,PA
+15853,Ridgway,Pennsylvania,PA
+15856,Rockton,Pennsylvania,PA
+15857,Saint Marys,Pennsylvania,PA
+15860,Sigel,Pennsylvania,PA
+15861,Sinnamahoning,Pennsylvania,PA
+15863,Stump Creek,Pennsylvania,PA
+15864,Summerville,Pennsylvania,PA
+15865,Sykesville,Pennsylvania,PA
+15866,Troutville,Pennsylvania,PA
+15868,Weedville,Pennsylvania,PA
+15870,Wilcox,Pennsylvania,PA
+15901,Johnstown,Pennsylvania,PA
+16001,Butler,Pennsylvania,PA
+16016,Boyers,Pennsylvania,PA
+16028,East Brady,Pennsylvania,PA
+16036,Foxburg,Pennsylvania,PA
+16049,Parker,Pennsylvania,PA
+16054,Saint Petersburg,Pennsylvania,PA
+16058,Turkey City,Pennsylvania,PA
+16101,New Castle,Pennsylvania,PA
+16110,Adamsville,Pennsylvania,PA
+16111,Atlantic,Pennsylvania,PA
+16114,Clarks Mills,Pennsylvania,PA
+16124,Fredonia,Pennsylvania,PA
+16130,Hadley,Pennsylvania,PA
+16131,Hartstown,Pennsylvania,PA
+16145,Sandy Lake,Pennsylvania,PA
+16151,Sheakleyville,Pennsylvania,PA
+16153,Stoneboro,Pennsylvania,PA
+16201,Kittanning,Pennsylvania,PA
+16210,Adrian,Pennsylvania,PA
+16212,Cadogan,Pennsylvania,PA
+16213,Callensburg,Pennsylvania,PA
+16214,Clarion,Pennsylvania,PA
+16217,Cooksburg,Pennsylvania,PA
+16218,Cowansville,Pennsylvania,PA
+16220,Crown,Pennsylvania,PA
+16221,Curllsville,Pennsylvania,PA
+16223,Distant,Pennsylvania,PA
+16224,Fairmount City,Pennsylvania,PA
+16225,Fisher,Pennsylvania,PA
+16226,Ford City,Pennsylvania,PA
+16228,Ford Cliff,Pennsylvania,PA
+16229,Freeport,Pennsylvania,PA
+16230,Hawthorn,Pennsylvania,PA
+16232,Knox,Pennsylvania,PA
+16233,Leeper,Pennsylvania,PA
+16234,Limestone,Pennsylvania,PA
+16235,Lucinda,Pennsylvania,PA
+16236,Mc Grann,Pennsylvania,PA
+16238,Manorville,Pennsylvania,PA
+16239,Marienville,Pennsylvania,PA
+16240,Mayport,Pennsylvania,PA
+16242,New Bethlehem,Pennsylvania,PA
+16244,Nu Mine,Pennsylvania,PA
+16245,Oak Ridge,Pennsylvania,PA
+16248,Rimersburg,Pennsylvania,PA
+16249,Rural Valley,Pennsylvania,PA
+16250,Sagamore,Pennsylvania,PA
+16254,Shippenville,Pennsylvania,PA
+16255,Sligo,Pennsylvania,PA
+16258,Strattanville,Pennsylvania,PA
+16259,Templeton,Pennsylvania,PA
+16260,Vowinckel,Pennsylvania,PA
+16261,Widnoon,Pennsylvania,PA
+16262,Worthington,Pennsylvania,PA
+16263,Yatesboro,Pennsylvania,PA
+16301,Oil City,Pennsylvania,PA
+16312,Chandlers Valley,Pennsylvania,PA
+16313,Clarendon,Pennsylvania,PA
+16314,Cochranton,Pennsylvania,PA
+16316,Conneaut Lake,Pennsylvania,PA
+16317,Cooperstown,Pennsylvania,PA
+16319,Cranberry,Pennsylvania,PA
+16323,Franklin,Pennsylvania,PA
+16326,Fryburg,Pennsylvania,PA
+16327,Guys Mills,Pennsylvania,PA
+16329,Irvine,Pennsylvania,PA
+16331,Kossuth,Pennsylvania,PA
+16332,Lickingville,Pennsylvania,PA
+16333,Ludlow,Pennsylvania,PA
+16334,Marble,Pennsylvania,PA
+16335,Meadville,Pennsylvania,PA
+16340,Pittsfield,Pennsylvania,PA
+16341,Pleasantville,Pennsylvania,PA
+16342,Polk,Pennsylvania,PA
+16343,Reno,Pennsylvania,PA
+16344,Rouseville,Pennsylvania,PA
+16345,Russell,Pennsylvania,PA
+16346,Seneca,Pennsylvania,PA
+16350,Sugar Grove,Pennsylvania,PA
+16353,Tionesta,Pennsylvania,PA
+16354,Titusville,Pennsylvania,PA
+16360,Townville,Pennsylvania,PA
+16361,Tylersburg,Pennsylvania,PA
+16362,Utica,Pennsylvania,PA
+16364,Venus,Pennsylvania,PA
+16365,Warren,Pennsylvania,PA
+16371,Youngsville,Pennsylvania,PA
+16372,Clintonville,Pennsylvania,PA
+16373,Emlenton,Pennsylvania,PA
+16374,Kennerdell,Pennsylvania,PA
+16375,Lamartine,Pennsylvania,PA
+16403,Cambridge Springs,Pennsylvania,PA
+16406,Conneautville,Pennsylvania,PA
+16407,Corry,Pennsylvania,PA
+16412,Edinboro,Pennsylvania,PA
+16415,Fairview,Pennsylvania,PA
+16417,Girard,Pennsylvania,PA
+16421,Harborcreek,Pennsylvania,PA
+16422,Harmonsburg,Pennsylvania,PA
+16423,Lake City,Pennsylvania,PA
+16424,Linesville,Pennsylvania,PA
+16426,McKean,Pennsylvania,PA
+16427,Mill Village,Pennsylvania,PA
+16428,North East,Pennsylvania,PA
+16433,Saegertown,Pennsylvania,PA
+16435,Springboro,Pennsylvania,PA
+16438,Union City,Pennsylvania,PA
+16440,Venango,Pennsylvania,PA
+16441,Waterford,Pennsylvania,PA
+16442,Wattsburg,Pennsylvania,PA
+16501,Erie,Pennsylvania,PA
+16601,Altoona,Pennsylvania,PA
+16616,Beccaria,Pennsylvania,PA
+16620,Brisbin,Pennsylvania,PA
+16627,Coalport,Pennsylvania,PA
+16645,Glen Hope,Pennsylvania,PA
+16651,Houtzdale,Pennsylvania,PA
+16656,Irvona,Pennsylvania,PA
+16661,Madera,Pennsylvania,PA
+16663,Morann,Pennsylvania,PA
+16671,Ramey,Pennsylvania,PA
+16680,Smithmill,Pennsylvania,PA
+16681,Smokerun,Pennsylvania,PA
+16692,Westover,Pennsylvania,PA
+16701,Bradford,Pennsylvania,PA
+16720,Austin,Pennsylvania,PA
+16724,Crosby,Pennsylvania,PA
+16725,Custer City,Pennsylvania,PA
+16726,Cyclone,Pennsylvania,PA
+16727,Derrick City,Pennsylvania,PA
+16728,De Young,Pennsylvania,PA
+16729,Duke Center,Pennsylvania,PA
+16730,East Smethport,Pennsylvania,PA
+16731,Eldred,Pennsylvania,PA
+16732,Gifford,Pennsylvania,PA
+16733,Hazel Hurst,Pennsylvania,PA
+16734,James City,Pennsylvania,PA
+16735,Kane,Pennsylvania,PA
+16738,Lewis Run,Pennsylvania,PA
+16740,Mount Jewett,Pennsylvania,PA
+16743,Port Allegany,Pennsylvania,PA
+16744,Rew,Pennsylvania,PA
+16745,Rixford,Pennsylvania,PA
+16746,Roulette,Pennsylvania,PA
+16748,Shinglehouse,Pennsylvania,PA
+16749,Smethport,Pennsylvania,PA
+16750,Turtlepoint,Pennsylvania,PA
+16801,State College,Pennsylvania,PA
+16821,Allport,Pennsylvania,PA
+16825,Bigler,Pennsylvania,PA
+16830,Clearfield,Pennsylvania,PA
+16833,Curwensville,Pennsylvania,PA
+16834,Drifting,Pennsylvania,PA
+16836,Frenchville,Pennsylvania,PA
+16837,Glen Richey,Pennsylvania,PA
+16838,Grampian,Pennsylvania,PA
+16839,Grassflat,Pennsylvania,PA
+16840,Hawk Run,Pennsylvania,PA
+16843,Hyde,Pennsylvania,PA
+16845,Karthaus,Pennsylvania,PA
+16847,Kylertown,Pennsylvania,PA
+16849,Lanse,Pennsylvania,PA
+16850,Lecontes Mills,Pennsylvania,PA
+16855,Mineral Springs,Pennsylvania,PA
+16858,Morrisdale,Pennsylvania,PA
+16860,Munson,Pennsylvania,PA
+16861,New Millport,Pennsylvania,PA
+16863,Olanta,Pennsylvania,PA
+16871,Pottersdale,Pennsylvania,PA
+16873,Shawville,Pennsylvania,PA
+16876,Wallaceton,Pennsylvania,PA
+16878,West Decatur,Pennsylvania,PA
+16879,Winburne,Pennsylvania,PA
+16881,Woodland,Pennsylvania,PA
+16915,Coudersport,Pennsylvania,PA
+16921,Gaines,Pennsylvania,PA
+16922,Galeton,Pennsylvania,PA
+16923,Genesee,Pennsylvania,PA
+16927,Harrison Valley,Pennsylvania,PA
+16937,Mills,Pennsylvania,PA
+16948,Ulysses,Pennsylvania,PA
+17001,Camp Hill,Pennsylvania,PA
+17002,Allensville,Pennsylvania,PA
+17004,Belleville,Pennsylvania,PA
+17006,Blain,Pennsylvania,PA
+17009,Burnham,Pennsylvania,PA
+17014,Cocolamus,Pennsylvania,PA
+17020,Duncannon,Pennsylvania,PA
+17021,East Waterford,Pennsylvania,PA
+17024,Elliottsburg,Pennsylvania,PA
+17029,Granville,Pennsylvania,PA
+17035,Honey Grove,Pennsylvania,PA
+17037,Ickesburg,Pennsylvania,PA
+17040,Landisburg,Pennsylvania,PA
+17042,Lebanon,Pennsylvania,PA
+17044,Lewistown,Pennsylvania,PA
+17045,Liverpool,Pennsylvania,PA
+17047,Loysville,Pennsylvania,PA
+17049,McAlisterville,Pennsylvania,PA
+17051,Mc Veytown,Pennsylvania,PA
+17053,Marysville,Pennsylvania,PA
+17054,Mattawana,Pennsylvania,PA
+17056,Mexico,Pennsylvania,PA
+17058,Mifflin,Pennsylvania,PA
+17059,Mifflintown,Pennsylvania,PA
+17060,Mill Creek,Pennsylvania,PA
+17062,Millerstown,Pennsylvania,PA
+17063,Milroy,Pennsylvania,PA
+17068,New Bloomfield,Pennsylvania,PA
+17069,New Buffalo,Pennsylvania,PA
+17071,New Germantown,Pennsylvania,PA
+17074,Newport,Pennsylvania,PA
+17075,Newton Hamilton,Pennsylvania,PA
+17076,Oakland Mills,Pennsylvania,PA
+17082,Port Royal,Pennsylvania,PA
+17084,Reedsville,Pennsylvania,PA
+17086,Richfield,Pennsylvania,PA
+17090,Shermans Dale,Pennsylvania,PA
+17094,Thompsontown,Pennsylvania,PA
+17099,Yeagertown,Pennsylvania,PA
+17101,Harrisburg,Pennsylvania,PA
+17331,Hanover,Pennsylvania,PA
+17401,York,Pennsylvania,PA
+17601,Lancaster,Pennsylvania,PA
+17701,Williamsport,Pennsylvania,PA
+17729,Cross Fork,Pennsylvania,PA
+18001,Lehigh Valley,Pennsylvania,PA
+18015,Bethlehem,Pennsylvania,PA
+18040,Easton,Pennsylvania,PA
+18049,Emmaus,Pennsylvania,PA
+18101,Allentown,Pennsylvania,PA
+18501,Scranton,Pennsylvania,PA
+18640,Pittston,Pennsylvania,PA
+18701,Wilkes Barre,Pennsylvania,PA
+19010,Bryn Mawr,Pennsylvania,PA
+19019,Philadelphia,Pennsylvania,PA
+19034,Fort Washington,Pennsylvania,PA
+19054,Levittown,Pennsylvania,PA
+19063,Media,Pennsylvania,PA
+19080,Wayne,Pennsylvania,PA
+19331,Concordville,Pennsylvania,PA
+19380,West Chester,Pennsylvania,PA
+19397,Southeastern,Pennsylvania,PA
+19401,Norristown,Pennsylvania,PA
+19481,Valley Forge,Pennsylvania,PA
+19601,Reading,Pennsylvania,PA
+19702,Newark,Delaware,DE
+19801,Wilmington,Delaware,DE
+19901,Dover,Delaware,DE
+20001,Washington,District of Columbia,DC
+20101,Dulles,Virginia,VA
+20108,Manassas,Virginia,VA
+20120,Centreville,Virginia,VA
+20146,Ashburn,Virginia,VA
+20151,Chantilly,Virginia,VA
+20163,Sterling,Virginia,VA
+20170,Herndon,Virginia,VA
+20175,Leesburg,Virginia,VA
+20186,Warrenton,Virginia,VA
+20190,Reston,Virginia,VA
+20240,Washington,District of Columbia,DC
+20374,Washington Navy Yard,District of Columbia,DC
+20601,Waldorf,Maryland,MD
+20707,Laurel,Maryland,MD
+20715,Bowie,Maryland,MD
+20731,Capitol Heights,Maryland,MD
+20740,College Park,Maryland,MD
+20768,Greenbelt,Maryland,MD
+20772,Upper Marlboro,Maryland,MD
+20781,Hyattsville,Maryland,MD
+20810,Bethesda,Maryland,MD
+20814,Bethesda,Maryland,MD
+20847,Rockville,Maryland,MD
+20874,Germantown,Maryland,MD
+20877,Gaithersburg,Maryland,MD
+20901,Silver Spring,Maryland,MD
+21041,Ellicott City,Maryland,MD
+21044,Columbia,Maryland,MD
+21060,Glen Burnie,Maryland,MD
+21201,Baltimore,Maryland,MD
+21401,Annapolis,Maryland,MD
+21501,Cumberland,Maryland,MD
+21601,Easton,Maryland,MD
+21660,Ridgely,Maryland,MD
+21701,Frederick,Maryland,MD
+21740,Hagerstown,Maryland,MD
+21801,Salisbury,Maryland,MD
+22030,Fairfax,Virginia,VA
+22040,Falls Church,Virginia,VA
+22081,Merrifield,Virginia,VA
+22101,Mc Lean,Virginia,VA
+22107,McLean,Virginia,VA
+22150,Springfield,Virginia,VA
+22180,Vienna,Virginia,VA
+22191,Woodbridge,Virginia,VA
+22201,Arlington,Virginia,VA
+22203,Arlington,Virginia,VA
+22301,Alexandria,Virginia,VA
+22401,Fredericksburg,Virginia,VA
+22432,Burgess,Virginia,VA
+22435,Callao,Virginia,VA
+22436,Caret,Virginia,VA
+22437,Center Cross,Virginia,VA
+22438,Champlain,Virginia,VA
+22442,Coles Point,Virginia,VA
+22454,Dunnsville,Virginia,VA
+22456,Edwardsville,Virginia,VA
+22460,Farnham,Virginia,VA
+22469,Hague,Virginia,VA
+22472,Haynesville,Virginia,VA
+22473,Heathsville,Virginia,VA
+22476,Hustle,Virginia,VA
+22480,Irvington,Virginia,VA
+22482,Kilmarnock,Virginia,VA
+22488,Kinsale,Virginia,VA
+22503,Lancaster,Virginia,VA
+22504,Laneview,Virginia,VA
+22507,Lively,Virginia,VA
+22509,Loretto,Virginia,VA
+22511,Lottsburg,Virginia,VA
+22513,Merry Point,Virginia,VA
+22517,Mollusk,Virginia,VA
+22520,Montross,Virginia,VA
+22523,Morattico,Virginia,VA
+22524,Mount Holly,Virginia,VA
+22529,Oldhams,Virginia,VA
+22530,Ophelia,Virginia,VA
+22539,Reedville,Virginia,VA
+22548,Sharps,Virginia,VA
+22554,Stafford,Virginia,VA
+22560,Tappahannock,Virginia,VA
+22570,Village,Virginia,VA
+22572,Warsaw,Virginia,VA
+22576,Weems,Virginia,VA
+22577,Sandy Point,Virginia,VA
+22578,White Stone,Virginia,VA
+22579,Wicomico Church,Virginia,VA
+22601,Winchester,Virginia,VA
+22801,Harrisonburg,Virginia,VA
+22901,Charlottesville,Virginia,VA
+23001,Achilles,Virginia,VA
+23003,Ark,Virginia,VA
+23009,Aylett,Virginia,VA
+23018,Bena,Virginia,VA
+23021,Bohannon,Virginia,VA
+23023,Bruington,Virginia,VA
+23025,Cardinal,Virginia,VA
+23032,Church View,Virginia,VA
+23035,Cobbs Creek,Virginia,VA
+23043,Deltaville,Virginia,VA
+23045,Diggs,Virginia,VA
+23050,Dutton,Virginia,VA
+23056,Foster,Virginia,VA
+23058,Glen Allen,Virginia,VA
+23061,Gloucester,Virginia,VA
+23062,Gloucester Point,Virginia,VA
+23064,Grimstead,Virginia,VA
+23066,Gwynn,Virginia,VA
+23068,Hallieford,Virginia,VA
+23070,Hardyville,Virginia,VA
+23071,Hartfield,Virginia,VA
+23072,Hayes,Virginia,VA
+23076,Hudgins,Virginia,VA
+23079,Jamaica,Virginia,VA
+23085,King and Queen Court House,Virginia,VA
+23086,King William,Virginia,VA
+23089,Lanexa,Virginia,VA
+23090,Lightfoot,Virginia,VA
+23091,Little Plymouth,Virginia,VA
+23092,Locust Hill,Virginia,VA
+23106,Manquin,Virginia,VA
+23108,Mascot,Virginia,VA
+23109,Mathews,Virginia,VA
+23110,Mattaponi,Virginia,VA
+23112,Midlothian,Virginia,VA
+23115,Millers Tavern,Virginia,VA
+23119,Moon,Virginia,VA
+23125,New Point,Virginia,VA
+23126,Newtown,Virginia,VA
+23127,Norge,Virginia,VA
+23128,North,Virginia,VA
+23130,Onemo,Virginia,VA
+23131,Ordinary,Virginia,VA
+23138,Port Haywood,Virginia,VA
+23148,Saint Stephens Church,Virginia,VA
+23149,Saluda,Virginia,VA
+23150,Sandston,Virginia,VA
+23154,Schley,Virginia,VA
+23156,Shacklefords,Virginia,VA
+23161,Stevensville,Virginia,VA
+23163,Susan,Virginia,VA
+23168,Toano,Virginia,VA
+23169,Topping,Virginia,VA
+23175,Urbanna,Virginia,VA
+23176,Wake,Virginia,VA
+23177,Walkerton,Virginia,VA
+23178,Ware Neck,Virginia,VA
+23180,Water View,Virginia,VA
+23181,West Point,Virginia,VA
+23183,White Marsh,Virginia,VA
+23184,Wicomico,Virginia,VA
+23185,Williamsburg,Virginia,VA
+23218,Richmond,Virginia,VA
+23222,Richmond,Virginia,VA
+23304,Battery Park,Virginia,VA
+23314,Carrollton,Virginia,VA
+23315,Carrsville,Virginia,VA
+23320,Chesapeake,Virginia,VA
+23397,Isle of Wight,Virginia,VA
+23424,Rescue,Virginia,VA
+23430,Smithfield,Virginia,VA
+23432,Suffolk,Virginia,VA
+23450,Virginia Beach,Virginia,VA
+23487,Windsor,Virginia,VA
+23501,Norfolk,Virginia,VA
+23601,Newport News,Virginia,VA
+23604,Fort Eustis,Virginia,VA
+23630,Hampton,Virginia,VA
+23651,Fort Monroe,Virginia,VA
+23662,Poquoson,Virginia,VA
+23690,Yorktown,Virginia,VA
+23694,Lackey,Virginia,VA
+23701,Portsmouth,Virginia,VA
+23803,Petersburg,Virginia,VA
+23827,Boykins,Virginia,VA
+23828,Branchville,Virginia,VA
+23829,Capron,Virginia,VA
+23837,Courtland,Virginia,VA
+23839,Dendron,Virginia,VA
+23844,Drewryville,Virginia,VA
+23846,Elberon,Virginia,VA
+23851,Franklin,Virginia,VA
+23866,Ivor,Virginia,VA
+23874,Newsoms,Virginia,VA
+23878,Sedley,Virginia,VA
+23881,Spring Grove,Virginia,VA
+23883,Surry,Virginia,VA
+23888,Wakefield,Virginia,VA
+23898,Zuni,Virginia,VA
+23899,Claremont,Virginia,VA
+23950,La Crosse,Virginia,VA
+24001,Roanoke,Virginia,VA
+24060,Blacksburg,Virginia,VA
+24112,Martinsville,Virginia,VA
+24141,Radford,Virginia,VA
+24201,Bristol,Virginia,VA
+24210,Abingdon,Virginia,VA
+24401,Staunton,Virginia,VA
+24501,Lynchburg,Virginia,VA
+24540,Danville,Virginia,VA
+25301,Charleston,West Virginia,WV
+25701,Huntington,West Virginia,WV
+26101,Parkersburg,West Virginia,WV
+26120,Mineral Wells,West Virginia,WV
+26301,Clarksburg,West Virginia,WV
+26501,Morgantown,West Virginia,WV
+27009,Belews Creek,North Carolina,NC
+27010,Bethania,North Carolina,NC
+27012,Clemmons,North Carolina,NC
+27019,Germanton,North Carolina,NC
+27021,King,North Carolina,NC
+27023,Lewisville,North Carolina,NC
+27040,Pfafftown,North Carolina,NC
+27045,Rural Hall,North Carolina,NC
+27050,Tobaccoville,North Carolina,NC
+27051,Walkertown,North Carolina,NC
+27052,Walnut Cove,North Carolina,NC
+27101,Winston Salem,North Carolina,NC
+27120,Winston-Salem,North Carolina,NC
+27201,Alamance,North Carolina,NC
+27202,Altamahaw,North Carolina,NC
+27203,Asheboro,North Carolina,NC
+27214,Browns Summit,North Carolina,NC
+27215,Burlington,North Carolina,NC
+27233,Climax,North Carolina,NC
+27235,Colfax,North Carolina,NC
+27243,Efland,North Carolina,NC
+27244,Elon,North Carolina,NC
+27249,Gibsonville,North Carolina,NC
+27253,Graham,North Carolina,NC
+27258,Haw River,North Carolina,NC
+27260,High Point,North Carolina,NC
+27278,Hillsborough,North Carolina,NC
+27282,Jamestown,North Carolina,NC
+27283,Julian,North Carolina,NC
+27284,Kernersville,North Carolina,NC
+27292,Lexington,North Carolina,NC
+27298,Liberty,North Carolina,NC
+27301,Mc Leansville,North Carolina,NC
+27302,Mebane,North Carolina,NC
+27310,Oak Ridge,North Carolina,NC
+27312,Pittsboro,North Carolina,NC
+27313,Pleasant Garden,North Carolina,NC
+27317,Randleman,North Carolina,NC
+27320,Reidsville,North Carolina,NC
+27330,Sanford,North Carolina,NC
+27340,Saxapahaw,North Carolina,NC
+27342,Sedalia,North Carolina,NC
+27349,Snow Camp,North Carolina,NC
+27357,Stokesdale,North Carolina,NC
+27358,Summerfield,North Carolina,NC
+27359,Swepsonville,North Carolina,NC
+27370,Trinity,North Carolina,NC
+27377,Whitsett,North Carolina,NC
+27395,Greensboro,North Carolina,NC
+27501,Angier,North Carolina,NC
+27502,Apex,North Carolina,NC
+27509,Butner,North Carolina,NC
+27510,Carrboro,North Carolina,NC
+27511,Cary,North Carolina,NC
+27514,Chapel Hill,North Carolina,NC
+27520,Clayton,North Carolina,NC
+27522,Creedmoor,North Carolina,NC
+27524,Four Oaks,North Carolina,NC
+27526,Fuquay Varina,North Carolina,NC
+27529,Garner,North Carolina,NC
+27530,Goldsboro,North Carolina,NC
+27540,Holly Springs,North Carolina,NC
+27542,Kenly,North Carolina,NC
+27545,Knightdale,North Carolina,NC
+27557,Middlesex,North Carolina,NC
+27560,Morrisville,North Carolina,NC
+27562,New Hill,North Carolina,NC
+27569,Princeton,North Carolina,NC
+27571,Rolesville,North Carolina,NC
+27572,Rougemont,North Carolina,NC
+27587,Wake Forest,North Carolina,NC
+27591,Wendell,North Carolina,NC
+27592,Willow Spring,North Carolina,NC
+27596,Youngsville,North Carolina,NC
+27597,Zebulon,North Carolina,NC
+27601,Raleigh,North Carolina,NC
+27701,Durham,North Carolina,NC
+27801,Rocky Mount,North Carolina,NC
+27806,Aurora,North Carolina,NC
+27807,Bailey,North Carolina,NC
+27809,Battleboro,North Carolina,NC
+27811,Bellarthur,North Carolina,NC
+27812,Bethel,North Carolina,NC
+27813,Black Creek,North Carolina,NC
+27816,Castalia,North Carolina,NC
+27819,Conetoe,North Carolina,NC
+27822,Elm City,North Carolina,NC
+27825,Everetts,North Carolina,NC
+27827,Falkland,North Carolina,NC
+27828,Farmville,North Carolina,NC
+27829,Fountain,North Carolina,NC
+27830,Fremont,North Carolina,NC
+27833,Greenville,North Carolina,NC
+27837,Grimesland,North Carolina,NC
+27843,Hobgood,North Carolina,NC
+27851,Lucama,North Carolina,NC
+27852,Macclesfield,North Carolina,NC
+27856,Nashville,North Carolina,NC
+27861,Parmele,North Carolina,NC
+27863,Pikeville,North Carolina,NC
+27864,Pinetops,North Carolina,NC
+27868,Red Oak,North Carolina,NC
+27871,Robersonville,North Carolina,NC
+27873,Saratoga,North Carolina,NC
+27878,Sharpsburg,North Carolina,NC
+27879,Simpson,North Carolina,NC
+27880,Sims,North Carolina,NC
+27881,Speed,North Carolina,NC
+27882,Spring Hope,North Carolina,NC
+27883,Stantonsburg,North Carolina,NC
+27884,Stokes,North Carolina,NC
+27886,Tarboro,North Carolina,NC
+27888,Walstonburg,North Carolina,NC
+27889,Washington,North Carolina,NC
+27891,Whitakers,North Carolina,NC
+27893,Wilson,North Carolina,NC
+27906,Elizabeth City,North Carolina,NC
+28025,Concord,North Carolina,NC
+28052,Gastonia,North Carolina,NC
+28081,Kannapolis,North Carolina,NC
+28104,Matthews,North Carolina,NC
+28110,Monroe,North Carolina,NC
+28144,Salisbury,North Carolina,NC
+28150,Shelby,North Carolina,NC
+28201,Charlotte,North Carolina,NC
+28301,Fayetteville,North Carolina,NC
+28307,Fort Bragg,North Carolina,NC
+28308,Pope Air Force Base,North Carolina,NC
+28319,Barnesville,North Carolina,NC
+28320,Bladenboro,North Carolina,NC
+28331,Cumberland,North Carolina,NC
+28333,Dudley,North Carolina,NC
+28340,Fairmont,North Carolina,NC
+28342,Falcon,North Carolina,NC
+28344,Godwin,North Carolina,NC
+28348,Hope Mills,North Carolina,NC
+28356,Linden,North Carolina,NC
+28357,Lumber Bridge,North Carolina,NC
+28358,Lumberton,North Carolina,NC
+28362,Marietta,North Carolina,NC
+28365,Mount Olive,North Carolina,NC
+28369,Orrum,North Carolina,NC
+28371,Parkton,North Carolina,NC
+28372,Pembroke,North Carolina,NC
+28375,Proctorville,North Carolina,NC
+28376,Raeford,North Carolina,NC
+28377,Red Springs,North Carolina,NC
+28383,Rowland,North Carolina,NC
+28384,Saint Pauls,North Carolina,NC
+28386,Shannon,North Carolina,NC
+28390,Spring Lake,North Carolina,NC
+28391,Stedman,North Carolina,NC
+28395,Wade,North Carolina,NC
+28401,Wilmington,North Carolina,NC
+28421,Atkinson,North Carolina,NC
+28422,Bolivia,North Carolina,NC
+28423,Bolton,North Carolina,NC
+28425,Burgaw,North Carolina,NC
+28428,Carolina Beach,North Carolina,NC
+28429,Castle Hayne,North Carolina,NC
+28435,Currie,North Carolina,NC
+28436,Delco,North Carolina,NC
+28443,Hampstead,North Carolina,NC
+28445,Holly Ridge,North Carolina,NC
+28447,Ivanhoe,North Carolina,NC
+28449,Kure Beach,North Carolina,NC
+28451,Leland,North Carolina,NC
+28454,Maple Hill,North Carolina,NC
+28456,Riegelwood,North Carolina,NC
+28457,Rocky Point,North Carolina,NC
+28460,Sneads Ferry,North Carolina,NC
+28461,Southport,North Carolina,NC
+28462,Supply,North Carolina,NC
+28465,Oak Island,North Carolina,NC
+28478,Willard,North Carolina,NC
+28479,Winnabow,North Carolina,NC
+28480,Wrightsville Beach,North Carolina,NC
+28501,Kinston,North Carolina,NC
+28509,Alliance,North Carolina,NC
+28510,Arapahoe,North Carolina,NC
+28511,Atlantic,North Carolina,NC
+28512,Atlantic Beach,North Carolina,NC
+28513,Ayden,North Carolina,NC
+28515,Bayboro,North Carolina,NC
+28516,Beaufort,North Carolina,NC
+28519,Bridgeton,North Carolina,NC
+28520,Cedar Island,North Carolina,NC
+28523,Cove City,North Carolina,NC
+28524,Davis,North Carolina,NC
+28525,Deep Run,North Carolina,NC
+28526,Dover,North Carolina,NC
+28527,Ernul,North Carolina,NC
+28528,Gloucester,North Carolina,NC
+28529,Grantsboro,North Carolina,NC
+28530,Grifton,North Carolina,NC
+28531,Harkers Island,North Carolina,NC
+28532,Havelock,North Carolina,NC
+28533,Cherry Point,North Carolina,NC
+28537,Hobucken,North Carolina,NC
+28538,Hookerton,North Carolina,NC
+28539,Hubert,North Carolina,NC
+28540,Jacksonville,North Carolina,NC
+28542,Camp Lejeune,North Carolina,NC
+28543,Tarawa Terrace,North Carolina,NC
+28544,Midway Park,North Carolina,NC
+28545,McCutcheon Field,North Carolina,NC
+28551,La Grange,North Carolina,NC
+28552,Lowland,North Carolina,NC
+28553,Marshallberg,North Carolina,NC
+28554,Maury,North Carolina,NC
+28555,Maysville,North Carolina,NC
+28556,Merritt,North Carolina,NC
+28557,Morehead City,North Carolina,NC
+28560,New Bern,North Carolina,NC
+28570,Newport,North Carolina,NC
+28571,Oriental,North Carolina,NC
+28572,Pink Hill,North Carolina,NC
+28573,Pollocksville,North Carolina,NC
+28574,Richlands,North Carolina,NC
+28575,Salter Path,North Carolina,NC
+28577,Sealevel,North Carolina,NC
+28578,Seven Springs,North Carolina,NC
+28579,Smyrna,North Carolina,NC
+28580,Snow Hill,North Carolina,NC
+28581,Stacy,North Carolina,NC
+28582,Stella,North Carolina,NC
+28583,Stonewall,North Carolina,NC
+28584,Swansboro,North Carolina,NC
+28585,Trenton,North Carolina,NC
+28586,Vanceboro,North Carolina,NC
+28587,Vandemere,North Carolina,NC
+28589,Williston,North Carolina,NC
+28590,Winterville,North Carolina,NC
+28594,Emerald Isle,North Carolina,NC
+28601,Hickory,North Carolina,NC
+28625,Statesville,North Carolina,NC
+28656,North Wilkesboro,North Carolina,NC
+28739,Hendersonville,North Carolina,NC
+28801,Asheville,North Carolina,NC
+29002,Ballentine,South Carolina,SC
+29006,Batesburg,South Carolina,SC
+29009,Bethune,South Carolina,SC
+29010,Bishopville,South Carolina,SC
+29016,Blythewood,South Carolina,SC
+29020,Camden,South Carolina,SC
+29032,Cassatt,South Carolina,SC
+29033,Cayce,South Carolina,SC
+29036,Chapin,South Carolina,SC
+29037,Chappells,South Carolina,SC
+29044,Eastover,South Carolina,SC
+29045,Elgin,South Carolina,SC
+29052,Gadsden,South Carolina,SC
+29053,Gaston,South Carolina,SC
+29059,Holly Hill,South Carolina,SC
+29061,Hopkins,South Carolina,SC
+29063,Irmo,South Carolina,SC
+29067,Kershaw,South Carolina,SC
+29069,Lamar,South Carolina,SC
+29070,Leesville,South Carolina,SC
+29071,Lexington,South Carolina,SC
+29074,Liberty Hill,South Carolina,SC
+29075,Little Mountain,South Carolina,SC
+29078,Lugoff,South Carolina,SC
+29080,Lynchburg,South Carolina,SC
+29105,Monetta,South Carolina,SC
+29108,Newberry,South Carolina,SC
+29114,Olanta,South Carolina,SC
+29115,Orangeburg,South Carolina,SC
+29122,Peak,South Carolina,SC
+29126,Pomaria,South Carolina,SC
+29127,Prosperity,South Carolina,SC
+29129,Ridge Spring,South Carolina,SC
+29138,Saluda,South Carolina,SC
+29145,Silverstreet,South Carolina,SC
+29147,State Park,South Carolina,SC
+29150,Sumter,South Carolina,SC
+29161,Timmonsville,South Carolina,SC
+29166,Ward,South Carolina,SC
+29169,West Columbia,South Carolina,SC
+29175,Westville,South Carolina,SC
+29177,White Rock,South Carolina,SC
+29178,Whitmire,South Carolina,SC
+29201,Columbia,South Carolina,SC
+29301,Spartanburg,South Carolina,SC
+29316,Boiling Springs,South Carolina,SC
+29320,Arcadia,South Carolina,SC
+29322,Campobello,South Carolina,SC
+29323,Chesnee,South Carolina,SC
+29324,Clifton,South Carolina,SC
+29325,Clinton,South Carolina,SC
+29329,Converse,South Carolina,SC
+29330,Cowpens,South Carolina,SC
+29331,Cross Anchor,South Carolina,SC
+29332,Cross Hill,South Carolina,SC
+29333,Drayton,South Carolina,SC
+29334,Duncan,South Carolina,SC
+29335,Enoree,South Carolina,SC
+29336,Fairforest,South Carolina,SC
+29338,Fingerville,South Carolina,SC
+29340,Gaffney,South Carolina,SC
+29346,Glendale,South Carolina,SC
+29348,Gramling,South Carolina,SC
+29349,Inman,South Carolina,SC
+29351,Joanna,South Carolina,SC
+29355,Kinards,South Carolina,SC
+29356,Landrum,South Carolina,SC
+29360,Laurens,South Carolina,SC
+29365,Lyman,South Carolina,SC
+29368,Mayo,South Carolina,SC
+29369,Moore,South Carolina,SC
+29370,Mountville,South Carolina,SC
+29372,Pacolet,South Carolina,SC
+29373,Pacolet Mills,South Carolina,SC
+29374,Pauline,South Carolina,SC
+29375,Reidville,South Carolina,SC
+29376,Roebuck,South Carolina,SC
+29377,Startex,South Carolina,SC
+29378,Una,South Carolina,SC
+29384,Waterloo,South Carolina,SC
+29385,Wellford,South Carolina,SC
+29386,White Stone,South Carolina,SC
+29388,Woodruff,South Carolina,SC
+29401,Charleston,South Carolina,SC
+29404,Charleston Air Force Base,South Carolina,SC
+29405,North Charleston,South Carolina,SC
+29426,Adams Run,South Carolina,SC
+29429,Awendaw,South Carolina,SC
+29431,Bonneau,South Carolina,SC
+29434,Cordesville,South Carolina,SC
+29436,Cross,South Carolina,SC
+29439,Folly Beach,South Carolina,SC
+29445,Goose Creek,South Carolina,SC
+29449,Hollywood,South Carolina,SC
+29450,Huger,South Carolina,SC
+29451,Isle of Palms,South Carolina,SC
+29453,Jamestown,South Carolina,SC
+29455,Johns Island,South Carolina,SC
+29456,Ladson,South Carolina,SC
+29461,Moncks Corner,South Carolina,SC
+29464,Mount Pleasant,South Carolina,SC
+29468,Pineville,South Carolina,SC
+29469,Pinopolis,South Carolina,SC
+29470,Ravenel,South Carolina,SC
+29476,Russellville,South Carolina,SC
+29479,Saint Stephen,South Carolina,SC
+29482,Sullivans Island,South Carolina,SC
+29483,Summerville,South Carolina,SC
+29487,Wadmalaw Island,South Carolina,SC
+29501,Florence,South Carolina,SC
+29526,Conway,South Carolina,SC
+29530,Coward,South Carolina,SC
+29532,Darlington,South Carolina,SC
+29541,Effingham,South Carolina,SC
+29550,Hartsville,South Carolina,SC
+29560,Lake City,South Carolina,SC
+29571,Marion,South Carolina,SC
+29572,Myrtle Beach,South Carolina,SC
+29574,Mullins,South Carolina,SC
+29582,North Myrtle Beach,South Carolina,SC
+29583,Pamplico,South Carolina,SC
+29591,Scranton,South Carolina,SC
+29592,Sellers,South Carolina,SC
+29601,Greenville,South Carolina,SC
+29620,Abbeville,South Carolina,SC
+29621,Anderson,South Carolina,SC
+29627,Belton,South Carolina,SC
+29628,Calhoun Falls,South Carolina,SC
+29630,Central,South Carolina,SC
+29631,Clemson,South Carolina,SC
+29635,Cleveland,South Carolina,SC
+29636,Conestee,South Carolina,SC
+29638,Donalds,South Carolina,SC
+29639,Due West,South Carolina,SC
+29640,Easley,South Carolina,SC
+29643,Fair Play,South Carolina,SC
+29644,Fountain Inn,South Carolina,SC
+29645,Gray Court,South Carolina,SC
+29646,Greenwood,South Carolina,SC
+29650,Greer,South Carolina,SC
+29653,Hodges,South Carolina,SC
+29654,Honea Path,South Carolina,SC
+29655,Iva,South Carolina,SC
+29656,La France,South Carolina,SC
+29657,Liberty,South Carolina,SC
+29658,Long Creek,South Carolina,SC
+29659,Lowndesville,South Carolina,SC
+29661,Marietta,South Carolina,SC
+29662,Mauldin,South Carolina,SC
+29664,Mountain Rest,South Carolina,SC
+29665,Newry,South Carolina,SC
+29666,Ninety Six,South Carolina,SC
+29667,Norris,South Carolina,SC
+29669,Pelzer,South Carolina,SC
+29670,Pendleton,South Carolina,SC
+29671,Pickens,South Carolina,SC
+29672,Seneca,South Carolina,SC
+29673,Piedmont,South Carolina,SC
+29675,Richland,South Carolina,SC
+29676,Salem,South Carolina,SC
+29677,Sandy Springs,South Carolina,SC
+29680,Simpsonville,South Carolina,SC
+29682,Six Mile,South Carolina,SC
+29683,Slater,South Carolina,SC
+29684,Starr,South Carolina,SC
+29685,Sunset,South Carolina,SC
+29686,Tamassee,South Carolina,SC
+29687,Taylors,South Carolina,SC
+29688,Tigerville,South Carolina,SC
+29689,Townville,South Carolina,SC
+29690,Travelers Rest,South Carolina,SC
+29691,Walhalla,South Carolina,SC
+29692,Ware Shoals,South Carolina,SC
+29693,Westminster,South Carolina,SC
+29696,West Union,South Carolina,SC
+29697,Williamston,South Carolina,SC
+29702,Blacksburg,South Carolina,SC
+29708,Fort Mill,South Carolina,SC
+29717,Hickory Grove,South Carolina,SC
+29720,Lancaster,South Carolina,SC
+29730,Rock Hill,South Carolina,SC
+29801,Aiken,South Carolina,SC
+29809,New Ellenton,South Carolina,SC
+29816,Bath,South Carolina,SC
+29819,Bradley,South Carolina,SC
+29821,Clarks Hill,South Carolina,SC
+29822,Clearwater,South Carolina,SC
+29824,Edgefield,South Carolina,SC
+29828,Gloverville,South Carolina,SC
+29829,Graniteville,South Carolina,SC
+29832,Johnston,South Carolina,SC
+29834,Langley,South Carolina,SC
+29835,McCormick,South Carolina,SC
+29838,Modoc,South Carolina,SC
+29839,Montmorenci,South Carolina,SC
+29840,Mount Carmel,South Carolina,SC
+29841,North Augusta,South Carolina,SC
+29842,Beech Island,South Carolina,SC
+29844,Parksville,South Carolina,SC
+29845,Plum Branch,South Carolina,SC
+29848,Troy,South Carolina,SC
+29850,Vaucluse,South Carolina,SC
+29851,Warrenville,South Carolina,SC
+29856,Windsor,South Carolina,SC
+29901,Beaufort,South Carolina,SC
+29925,Hilton Head Island,South Carolina,SC
+29938,Hilton Head Island,South Carolina,SC
+30003,Norcross,Georgia,GA
+30004,Alpharetta,Georgia,GA
+30006,Marietta,Georgia,GA
+30012,Conyers,Georgia,GA
+30014,Covington,Georgia,GA
+30028,Cumming,Georgia,GA
+30030,Decatur,Georgia,GA
+30042,Lawrenceville,Georgia,GA
+30080,Smyrna,Georgia,GA
+30083,Stone Mountain,Georgia,GA
+30095,Duluth,Georgia,GA
+30112,Carrollton,Georgia,GA
+30114,Canton,Georgia,GA
+30133,Douglasville,Georgia,GA
+30144,Kennesaw,Georgia,GA
+30161,Rome,Georgia,GA
+30236,Jonesboro,Georgia,GA
+30240,Lagrange,Georgia,GA
+30263,Newnan,Georgia,GA
+30301,Atlanta,Georgia,GA
+30328,Atlanta,Georgia,GA
+30458,Statesboro,Georgia,GA
+30501,Gainesville,Georgia,GA
+30515,Buford,Georgia,GA
+30529,Commerce,Georgia,GA
+30601,Athens,Georgia,GA
+30719,Dalton,Georgia,GA
+30805,Blythe,Georgia,GA
+30809,Evans,Georgia,GA
+30812,Gracewood,Georgia,GA
+30813,Grovetown,Georgia,GA
+30815,Hephzibah,Georgia,GA
+30901,Augusta,Georgia,GA
+31059,Milledgeville,Georgia,GA
+31088,Warner Robins,Georgia,GA
+31201,Macon,Georgia,GA
+31302,Bloomingdale,Georgia,GA
+31305,Darien,Georgia,GA
+31307,Eden,Georgia,GA
+31318,Meldrim,Georgia,GA
+31322,Pooler,Georgia,GA
+31324,Richmond Hill,Georgia,GA
+31326,Rincon,Georgia,GA
+31328,Tybee Island,Georgia,GA
+31331,Townsend,Georgia,GA
+31401,Savannah,Georgia,GA
+31501,Waycross,Georgia,GA
+31520,Brunswick,Georgia,GA
+31522,Saint Simons Island,Georgia,GA
+31527,Jekyll Island,Georgia,GA
+31533,Douglas,Georgia,GA
+31545,Jesup,Georgia,GA
+31561,Sea Island,Georgia,GA
+31565,Waverly,Georgia,GA
+31601,Valdosta,Georgia,GA
+31626,Boston,Georgia,GA
+31701,Albany,Georgia,GA
+31709,Americus,Georgia,GA
+31720,Barwick,Georgia,GA
+31730,Camilla,Georgia,GA
+31738,Coolidge,Georgia,GA
+31757,Thomasville,Georgia,GA
+31765,Meigs,Georgia,GA
+31768,Moultrie,Georgia,GA
+31773,Ochlocknee,Georgia,GA
+31778,Pavo,Georgia,GA
+31779,Pelham,Georgia,GA
+31901,Columbus,Georgia,GA
+32003,Orange Park,Florida,FL
+32004,Ponte Vedra Beach,Florida,FL
+32006,Fleming Island,Florida,FL
+32008,Branford,Florida,FL
+32009,Bryceville,Florida,FL
+32024,Lake City,Florida,FL
+32030,Doctors Inlet,Florida,FL
+32034,Fernandina Beach,Florida,FL
+32038,Fort White,Florida,FL
+32041,Yulee,Florida,FL
+32044,Hampton,Florida,FL
+32050,Middleburg,Florida,FL
+32052,Jasper,Florida,FL
+32053,Jennings,Florida,FL
+32054,Lake Butler,Florida,FL
+32060,Live Oak,Florida,FL
+32061,Lulu,Florida,FL
+32062,Mc Alpin,Florida,FL
+32066,Mayo,Florida,FL
+32071,O'Brien,Florida,FL
+32072,Olustee,Florida,FL
+32080,Saint Augustine,Florida,FL
+32091,Starke,Florida,FL
+32094,Wellborn,Florida,FL
+32096,White Springs,Florida,FL
+32099,Jacksonville,Florida,FL
+32111,Candler,Florida,FL
+32113,Citra,Florida,FL
+32114,Daytona Beach,Florida,FL
+32123,Port Orange,Florida,FL
+32133,Eastlake Weir,Florida,FL
+32134,Fort McCoy,Florida,FL
+32135,Palm Coast,Florida,FL
+32158,Lady Lake,Florida,FL
+32162,Lady Lake,Florida,FL
+32168,New Smyrna Beach,Florida,FL
+32173,Ormond Beach,Florida,FL
+32179,Ocklawaha,Florida,FL
+32182,Orange Springs,Florida,FL
+32192,Sparr,Florida,FL
+32195,Weirsdale,Florida,FL
+32233,Atlantic Beach,Florida,FL
+32240,Jacksonville Beach,Florida,FL
+32266,Neptune Beach,Florida,FL
+32301,Tallahassee,Florida,FL
+32326,Crawfordville,Florida,FL
+32346,Panacea,Florida,FL
+32351,Quincy,Florida,FL
+32355,Saint Marks,Florida,FL
+32358,Sopchoppy,Florida,FL
+32362,Woodville,Florida,FL
+32401,Panama City,Florida,FL
+32407,Panama City Beach,Florida,FL
+32410,Mexico Beach,Florida,FL
+32422,Argyle,Florida,FL
+32430,Clarksville,Florida,FL
+32433,Defuniak Springs,Florida,FL
+32434,Mossy Head,Florida,FL
+32437,Ebro,Florida,FL
+32438,Fountain,Florida,FL
+32439,Freeport,Florida,FL
+32444,Lynn Haven,Florida,FL
+32446,Marianna,Florida,FL
+32449,Wewahitchka,Florida,FL
+32454,Point Washington,Florida,FL
+32455,Ponce de Leon,Florida,FL
+32456,Port Saint Joe,Florida,FL
+32459,Santa Rosa Beach,Florida,FL
+32461,Rosemary Beach,Florida,FL
+32462,Vernon,Florida,FL
+32466,Youngstown,Florida,FL
+32501,Pensacola,Florida,FL
+32530,Bagdad,Florida,FL
+32531,Baker,Florida,FL
+32533,Cantonment,Florida,FL
+32535,Century,Florida,FL
+32536,Crestview,Florida,FL
+32537,Milligan,Florida,FL
+32538,Paxton,Florida,FL
+32540,Destin,Florida,FL
+32542,Eglin Air Force Base,Florida,FL
+32544,Hurlburt Field,Florida,FL
+32547,Fort Walton Beach,Florida,FL
+32550,Miramar Beach,Florida,FL
+32560,Gonzalez,Florida,FL
+32561,Gulf Breeze,Florida,FL
+32564,Holt,Florida,FL
+32565,Jay,Florida,FL
+32566,Navarre,Florida,FL
+32567,Laurel Hill,Florida,FL
+32568,McDavid,Florida,FL
+32569,Mary Esther,Florida,FL
+32570,Milton,Florida,FL
+32577,Molino,Florida,FL
+32578,Niceville,Florida,FL
+32579,Shalimar,Florida,FL
+32580,Valparaiso,Florida,FL
+32601,Gainesville,Florida,FL
+32615,Alachua,Florida,FL
+32617,Anthony,Florida,FL
+32618,Archer,Florida,FL
+32619,Bell,Florida,FL
+32621,Bronson,Florida,FL
+32622,Brooker,Florida,FL
+32625,Cedar Key,Florida,FL
+32626,Chiefland,Florida,FL
+32631,Earleton,Florida,FL
+32633,Evinston,Florida,FL
+32634,Fairfield,Florida,FL
+32640,Hawthorne,Florida,FL
+32643,High Springs,Florida,FL
+32656,Keystone Heights,Florida,FL
+32658,La Crosse,Florida,FL
+32662,Lochloosa,Florida,FL
+32663,Lowell,Florida,FL
+32664,Mc Intosh,Florida,FL
+32666,Melrose,Florida,FL
+32667,Micanopy,Florida,FL
+32668,Morriston,Florida,FL
+32669,Newberry,Florida,FL
+32680,Old Town,Florida,FL
+32681,Orange Lake,Florida,FL
+32683,Otter Creek,Florida,FL
+32686,Reddick,Florida,FL
+32693,Trenton,Florida,FL
+32694,Waldo,Florida,FL
+32696,Williston,Florida,FL
+32697,Worthington Springs,Florida,FL
+32701,Altamonte Springs,Florida,FL
+32702,Altoona,Florida,FL
+32703,Apopka,Florida,FL
+32707,Casselberry,Florida,FL
+32720,Deland,Florida,FL
+32725,Deltona,Florida,FL
+32726,Eustis,Florida,FL
+32750,Longwood,Florida,FL
+32754,Mims,Florida,FL
+32762,Oviedo,Florida,FL
+32771,Sanford,Florida,FL
+32775,Scottsmoor,Florida,FL
+32780,Titusville,Florida,FL
+32784,Umatilla,Florida,FL
+32789,Winter Park,Florida,FL
+32801,Orlando,Florida,FL
+32901,Melbourne,Florida,FL
+32903,Indialantic,Florida,FL
+32905,Palm Bay,Florida,FL
+32920,Cape Canaveral,Florida,FL
+32922,Cocoa,Florida,FL
+32925,Patrick Air Force Base,Florida,FL
+32931,Cocoa Beach,Florida,FL
+32937,Satellite Beach,Florida,FL
+32948,Fellsmere,Florida,FL
+32949,Grant,Florida,FL
+32950,Malabar,Florida,FL
+32951,Melbourne Beach,Florida,FL
+32952,Merritt Island,Florida,FL
+32955,Rockledge,Florida,FL
+32957,Roseland,Florida,FL
+32958,Sebastian,Florida,FL
+32959,Sharpes,Florida,FL
+32960,Vero Beach,Florida,FL
+32970,Wabasso,Florida,FL
+32971,Winter Beach,Florida,FL
+33002,Hialeah,Florida,FL
+33019,Hollywood,Florida,FL
+33030,Homestead,Florida,FL
+33040,Key West,Florida,FL
+33054,Opa Locka,Florida,FL
+33060,Pompano Beach,Florida,FL
+33101,Miami,Florida,FL
+33109,Miami Beach,Florida,FL
+33301,Fort Lauderdale,Florida,FL
+33401,West Palm Beach,Florida,FL
+33424,Boynton Beach,Florida,FL
+33427,Boca Raton,Florida,FL
+33431,Boca Raton,Florida,FL
+33441,Deerfield Beach,Florida,FL
+33444,Delray Beach,Florida,FL
+33454,Lake Worth,Florida,FL
+33458,Jupiter,Florida,FL
+33508,Brandon,Florida,FL
+33523,Dade City,Florida,FL
+33539,Zephyrhills,Florida,FL
+33548,Lutz,Florida,FL
+33563,Plant City,Florida,FL
+33601,Tampa,Florida,FL
+33701,Saint Petersburg,Florida,FL
+33755,Clearwater,Florida,FL
+33770,Largo,Florida,FL
+33772,Seminole,Florida,FL
+33780,Pinellas Park,Florida,FL
+33801,Lakeland,Florida,FL
+33836,Davenport,Florida,FL
+33853,Lake Wales,Florida,FL
+33870,Sebring,Florida,FL
+33880,Winter Haven,Florida,FL
+33901,Fort Myers,Florida,FL
+33903,North Fort Myers,Florida,FL
+33904,Cape Coral,Florida,FL
+33936,Lehigh Acres,Florida,FL
+33948,Port Charlotte,Florida,FL
+33950,Punta Gorda,Florida,FL
+34050,FPO,Armed Forces - Americas,AA
+34101,Naples,Florida,FL
+34133,Bonita Springs,Florida,FL
+34201,Bradenton,Florida,FL
+34223,Englewood,Florida,FL
+34230,Sarasota,Florida,FL
+34265,Arcadia,Florida,FL
+34284,Venice,Florida,FL
+34286,North Port,Florida,FL
+34420,Belleview,Florida,FL
+34423,Crystal River,Florida,FL
+34430,Dunnellon,Florida,FL
+34446,Homosassa,Florida,FL
+34450,Inverness,Florida,FL
+34470,Ocala,Florida,FL
+34484,Oxford,Florida,FL
+34488,Silver Springs,Florida,FL
+34491,Summerfield,Florida,FL
+34601,Brooksville,Florida,FL
+34606,Spring Hill,Florida,FL
+34652,New Port Richey,Florida,FL
+34667,Hudson,Florida,FL
+34682,Palm Harbor,Florida,FL
+34690,Holiday,Florida,FL
+34711,Clermont,Florida,FL
+34741,Kissimmee,Florida,FL
+34748,Leesburg,Florida,FL
+34769,Saint Cloud,Florida,FL
+34777,Winter Garden,Florida,FL
+34945,Fort Pierce,Florida,FL
+34952,Port Saint Lucie,Florida,FL
+34972,Okeechobee,Florida,FL
+34994,Stuart,Florida,FL
+35020,Bessemer,Alabama,AL
+35055,Cullman,Alabama,AL
+35201,Birmingham,Alabama,AL
+35401,Tuscaloosa,Alabama,AL
+35473,Northport,Alabama,AL
+35501,Jasper,Alabama,AL
+35601,Decatur,Alabama,AL
+35611,Athens,Alabama,AL
+35630,Florence,Alabama,AL
+35756,Madison,Alabama,AL
+35801,Huntsville,Alabama,AL
+35901,Gadsden,Alabama,AL
+36066,Prattville,Alabama,AL
+36079,Troy,Alabama,AL
+36101,Montgomery,Alabama,AL
+36201,Anniston,Alabama,AL
+36301,Dothan,Alabama,AL
+36460,Monroeville,Alabama,AL
+36502,Atmore,Alabama,AL
+36505,Axis,Alabama,AL
+36507,Bay Minette,Alabama,AL
+36509,Bayou La Batre,Alabama,AL
+36511,Bon Secour,Alabama,AL
+36512,Bucks,Alabama,AL
+36521,Chunchula,Alabama,AL
+36522,Citronelle,Alabama,AL
+36523,Coden,Alabama,AL
+36525,Creola,Alabama,AL
+36526,Daphne,Alabama,AL
+36527,Spanish Fort,Alabama,AL
+36528,Dauphin Island,Alabama,AL
+36530,Elberta,Alabama,AL
+36532,Fairhope,Alabama,AL
+36535,Foley,Alabama,AL
+36541,Grand Bay,Alabama,AL
+36542,Gulf Shores,Alabama,AL
+36544,Irvington,Alabama,AL
+36549,Lillian,Alabama,AL
+36550,Little River,Alabama,AL
+36551,Loxley,Alabama,AL
+36555,Magnolia Springs,Alabama,AL
+36558,Millry,Alabama,AL
+36559,Montrose,Alabama,AL
+36560,Mount Vernon,Alabama,AL
+36561,Orange Beach,Alabama,AL
+36562,Perdido,Alabama,AL
+36564,Point Clear,Alabama,AL
+36567,Robertsdale,Alabama,AL
+36571,Saraland,Alabama,AL
+36572,Satsuma,Alabama,AL
+36574,Seminole,Alabama,AL
+36575,Semmes,Alabama,AL
+36576,Silverhill,Alabama,AL
+36578,Stapleton,Alabama,AL
+36579,Stockton,Alabama,AL
+36580,Summerdale,Alabama,AL
+36582,Theodore,Alabama,AL
+36587,Wilmer,Alabama,AL
+36601,Mobile,Alabama,AL
+36613,Eight Mile,Alabama,AL
+36701,Selma,Alabama,AL
+36801,Opelika,Alabama,AL
+36830,Auburn,Alabama,AL
+36867,Phenix City,Alabama,AL
+37040,Clarksville,Tennessee,TN
+37064,Franklin,Tennessee,TN
+37087,Lebanon,Tennessee,TN
+37127,Murfreesboro,Tennessee,TN
+37160,Shelbyville,Tennessee,TN
+37201,Nashville,Tennessee,TN
+37311,Cleveland,Tennessee,TN
+37401,Chattanooga,Tennessee,TN
+37501,Memphis,Tennessee,TN
+37601,Johnson City,Tennessee,TN
+37620,Bristol,Tennessee,TN
+37660,Kingsport,Tennessee,TN
+37743,Greeneville,Tennessee,TN
+37801,Maryville,Tennessee,TN
+37813,Morristown,Tennessee,TN
+37862,Sevierville,Tennessee,TN
+37901,Knoxville,Tennessee,TN
+38016,Cordova,Tennessee,TN
+38053,Millington,Tennessee,TN
+38138,Germantown,Tennessee,TN
+38301,Jackson,Tennessee,TN
+38501,Cookeville,Tennessee,TN
+38555,Crossville,Tennessee,TN
+38701,Greenville,Mississippi,MS
+38801,Tupelo,Mississippi,MS
+39042,Brandon,Mississippi,MS
+39056,Clinton,Mississippi,MS
+39120,Natchez,Mississippi,MS
+39180,Vicksburg,Mississippi,MS
+39201,Jackson,Mississippi,MS
+39301,Meridian,Mississippi,MS
+39401,Hattiesburg,Mississippi,MS
+39440,Laurel,Mississippi,MS
+39501,Gulfport,Mississippi,MS
+39530,Biloxi,Mississippi,MS
+39564,Ocean Springs,Mississippi,MS
+39567,Pascagoula,Mississippi,MS
+39601,Brookhaven,Mississippi,MS
+39701,Columbus,Mississippi,MS
+39815,Attapulgus,Georgia,GA
+39817,Bainbridge,Georgia,GA
+39825,Brinson,Georgia,GA
+39827,Cairo,Georgia,GA
+39834,Climax,Georgia,GA
+39837,Colquitt,Georgia,GA
+39852,Fowlstown,Georgia,GA
+39897,Whigham,Georgia,GA
+40201,Louisville,Kentucky,KY
+40383,Versailles,Kentucky,KY
+40502,Lexington,Kentucky,KY
+40601,Frankfort,Kentucky,KY
+40741,London,Kentucky,KY
+41011,Covington,Kentucky,KY
+41071,Newport,Kentucky,KY
+41101,Ashland,Kentucky,KY
+41901,Migrate,Kentucky,KY
+42001,Paducah,Kentucky,KY
+42101,Bowling Green,Kentucky,KY
+42301,Owensboro,Kentucky,KY
+42501,Somerset,Kentucky,KY
+43055,Newark,Ohio,OH
+43081,Westerville,Ohio,OH
+43085,Columbus,Ohio,OH
+43125,Groveport,Ohio,OH
+43301,Marion,Ohio,OH
+43601,Toledo,Ohio,OH
+44030,Conneaut,Ohio,OH
+44052,Lorain,Ohio,OH
+44101,Cleveland,Ohio,OH
+44117,Euclid,Ohio,OH
+44221,Cuyahoga Falls,Ohio,OH
+44240,Kent,Ohio,OH
+44301,Akron,Ohio,OH
+44481,Warren,Ohio,OH
+44501,Youngstown,Ohio,OH
+44646,Massillon,Ohio,OH
+44701,Canton,Ohio,OH
+44901,Mansfield,Ohio,OH
+45011,Hamilton,Ohio,OH
+45042,Middletown,Ohio,OH
+45050,Monroe,Ohio,OH
+45201,Cincinnati,Ohio,OH
+45202,Cincinnati,Ohio,OH
+45401,Dayton,Ohio,OH
+45501,Springfield,Ohio,OH
+45801,Lima,Ohio,OH
+46011,Anderson,Indiana,IN
+46032,Carmel,Indiana,IN
+46060,Noblesville,Indiana,IN
+46201,Indianapolis,Indiana,IN
+46320,Hammond,Indiana,IN
+46383,Valparaiso,Indiana,IN
+46401,Gary,Indiana,IN
+46514,Elkhart,Indiana,IN
+46526,Goshen,Indiana,IN
+46544,Mishawaka,Indiana,IN
+46580,Warsaw,Indiana,IN
+46601,South Bend,Indiana,IN
+46801,Fort Wayne,Indiana,IN
+46901,Kokomo,Indiana,IN
+47130,Jeffersonville,Indiana,IN
+47201,Columbus,Indiana,IN
+47302,Muncie,Indiana,IN
+47401,Bloomington,Indiana,IN
+47546,Jasper,Indiana,IN
+47701,Evansville,Indiana,IN
+47801,Terre Haute,Indiana,IN
+47901,Lafayette,Indiana,IN
+47906,West Lafayette,Indiana,IN
+47933,Crawfordsville,Indiana,IN
+48007,Troy,Michigan,MI
+48034,Southfield,Michigan,MI
+48035,Clinton Township,Michigan,MI
+48067,Royal Oak,Michigan,MI
+48080,Saint Clair Shores,Michigan,MI
+48088,Warren,Michigan,MI
+48103,Ann Arbor,Michigan,MI
+48120,Dearborn,Michigan,MI
+48150,Livonia,Michigan,MI
+48201,Detroit,Michigan,MI
+48301,Bloomfield Hills,Michigan,MI
+48306,Rochester,Michigan,MI
+48310,Sterling Heights,Michigan,MI
+48315,Utica,Michigan,MI
+48322,West Bloomfield,Michigan,MI
+48327,Waterford,Michigan,MI
+48331,Farmington,Michigan,MI
+48340,Pontiac,Michigan,MI
+48346,Clarkston,Michigan,MI
+48359,Lake Orion,Michigan,MI
+48374,Novi,Michigan,MI
+48501,Flint,Michigan,MI
+48509,Burton,Michigan,MI
+48601,Saginaw,Michigan,MI
+48640,Midland,Michigan,MI
+48706,Bay City,Michigan,MI
+48804,Mount Pleasant,Michigan,MI
+48823,East Lansing,Michigan,MI
+48843,Howell,Michigan,MI
+48901,Lansing,Michigan,MI
+49001,Kalamazoo,Michigan,MI
+49002,Portage,Michigan,MI
+49014,Battle Creek,Michigan,MI
+49201,Jackson,Michigan,MI
+49301,Ada,Michigan,MI
+49422,Holland,Michigan,MI
+49440,Muskegon,Michigan,MI
+49501,Grand Rapids,Michigan,MI
+49684,Traverse City,Michigan,MI
+49784,Kincheloe,Michigan,MI
+50010,Ames,Iowa,IA
+50138,Knoxville,Iowa,IA
+50265,West Des Moines,Iowa,IA
+50301,Des Moines,Iowa,IA
+50701,Waterloo,Iowa,IA
+51101,Sioux City,Iowa,IA
+51501,Council Bluffs,Iowa,IA
+51601,Shenandoah,Iowa,IA
+52001,Dubuque,Iowa,IA
+52240,Iowa City,Iowa,IA
+52401,Cedar Rapids,Iowa,IA
+52732,Clinton,Iowa,IA
+52801,Davenport,Iowa,IA
+53005,Brookfield,Wisconsin,WI
+53081,Sheboygan,Wisconsin,WI
+53140,Kenosha,Wisconsin,WI
+53186,Waukesha,Wisconsin,WI
+53201,Milwaukee,Wisconsin,WI
+53401,Racine,Wisconsin,WI
+53545,Janesville,Wisconsin,WI
+53701,Madison,Wisconsin,WI
+54301,Green Bay,Wisconsin,WI
+54401,Wausau,Wisconsin,WI
+54404,Marshfield,Wisconsin,WI
+54601,La Crosse,Wisconsin,WI
+54701,Eau Claire,Wisconsin,WI
+54901,Oshkosh,Wisconsin,WI
+54911,Appleton,Wisconsin,WI
+54935,Fond du Lac,Wisconsin,WI
+55101,Saint Paul,Minnesota,MN
+55311,Osseo,Minnesota,MN
+55344,Eden Prairie,Minnesota,MN
+55348,Maple Plain,Minnesota,MN
+55357,Loretto,Minnesota,MN
+55362,Monticello,Minnesota,MN
+55368,Norwood,Minnesota,MN
+55394,Young America,Minnesota,MN
+55401,Minneapolis,Minnesota,MN
+55447,Minneapolis,Minnesota,MN
+55730,Grand Rapids,Minnesota,MN
+55801,Duluth,Minnesota,MN
+55901,Rochester,Minnesota,MN
+56001,Mankato,Minnesota,MN
+56301,Saint Cloud,Minnesota,MN
+56560,Moorhead,Minnesota,MN
+57101,Sioux Falls,South Dakota,SD
+57701,Rapid City,South Dakota,SD
+58074,Wahpeton,North Dakota,ND
+58102,Fargo,North Dakota,ND
+58103,Fargo,North Dakota,ND
+58201,Grand Forks,North Dakota,ND
+58401,Jamestown,North Dakota,ND
+58501,Bismarck,North Dakota,ND
+58701,Minot,North Dakota,ND
+58737,Flaxton,North Dakota,ND
+59101,Billings,Montana,MT
+59401,Great Falls,Montana,MT
+59601,Helena,Montana,MT
+59701,Butte,Montana,MT
+59715,Bozeman,Montana,MT
+59801,Missoula,Montana,MT
+59901,Kalispell,Montana,MT
+60004,Arlington Heights,Illinois,IL
+60012,Crystal Lake,Illinois,IL
+60016,Des Plaines,Illinois,IL
+60038,Palatine,Illinois,IL
+60050,McHenry,Illinois,IL
+60079,Waukegan,Illinois,IL
+60105,Bensenville,Illinois,IL
+60116,Carol Stream,Illinois,IL
+60120,Elgin,Illinois,IL
+60159,Schaumburg,Illinois,IL
+60160,Melrose Park,Illinois,IL
+60201,Evanston,Illinois,IL
+60301,Oak Park,Illinois,IL
+60431,Joliet,Illinois,IL
+60502,Aurora,Illinois,IL
+60521,Hinsdale,Illinois,IL
+60522,Hinsdale,Illinois,IL
+60540,Naperville,Illinois,IL
+60544,Plainfield,Illinois,IL
+60559,Westmont,Illinois,IL
+60601,Chicago,Illinois,IL
+60619,Chicago,Illinois,IL
+61101,Rockford,Illinois,IL
+61111,Loves Park,Illinois,IL
+61201,Rock Island,Illinois,IL
+61455,Macomb,Illinois,IL
+61554,Pekin,Illinois,IL
+61601,Peoria,Illinois,IL
+61701,Bloomington,Illinois,IL
+61801,Urbana,Illinois,IL
+61820,Champaign,Illinois,IL
+62201,East Saint Louis,Illinois,IL
+62220,Belleville,Illinois,IL
+62301,Quincy,Illinois,IL
+62521,Decatur,Illinois,IL
+62701,Springfield,Illinois,IL
+62901,Carbondale,Illinois,IL
+63005,Chesterfield,Missouri,MO
+63011,Ballwin,Missouri,MO
+63031,Florissant,Missouri,MO
+63101,Saint Louis,Missouri,MO
+63301,Saint Charles,Missouri,MO
+63701,Cape Girardeau,Missouri,MO
+64013,Blue Springs,Missouri,MO
+64050,Independence,Missouri,MO
+64063,Lees Summit,Missouri,MO
+64068,Liberty,Missouri,MO
+64101,Kansas City,Missouri,MO
+64501,Saint Joseph,Missouri,MO
+64801,Joplin,Missouri,MO
+65101,Jefferson City,Missouri,MO
+65201,Columbia,Missouri,MO
+65401,Rolla,Missouri,MO
+65801,Springfield,Missouri,MO
+66044,Lawrence,Kansas,KS
+66051,Olathe,Kansas,KS
+66101,Kansas City,Kansas,KS
+66201,Mission,Kansas,KS
+66203,Shawnee,Kansas,KS
+66204,Overland Park,Kansas,KS
+66206,Leawood,Kansas,KS
+66215,Lenexa,Kansas,KS
+66250,Shawnee Mission,Kansas,KS
+66502,Manhattan,Kansas,KS
+66601,Topeka,Kansas,KS
+67201,Wichita,Kansas,KS
+67501,Hutchinson,Kansas,KS
+68005,Bellevue,Nebraska,NE
+68101,Omaha,Nebraska,NE
+68501,Lincoln,Nebraska,NE
+68801,Grand Island,Nebraska,NE
+68845,Kearney,Nebraska,NE
+70001,Metairie,Louisiana,LA
+70053,Gretna,Louisiana,LA
+70062,Kenner,Louisiana,LA
+70112,New Orleans,Louisiana,LA
+70301,Thibodaux,Louisiana,LA
+70360,Houma,Louisiana,LA
+70401,Hammond,Louisiana,LA
+70433,Covington,Louisiana,LA
+70448,Mandeville,Louisiana,LA
+70458,Slidell,Louisiana,LA
+70501,Lafayette,Louisiana,LA
+70560,New Iberia,Louisiana,LA
+70601,Lake Charles,Louisiana,LA
+70663,Sulphur,Louisiana,LA
+70706,Denham Springs,Louisiana,LA
+70801,Baton Rouge,Louisiana,LA
+71101,Shreveport,Louisiana,LA
+71111,Bossier City,Louisiana,LA
+71201,Monroe,Louisiana,LA
+71270,Ruston,Louisiana,LA
+71291,West Monroe,Louisiana,LA
+71301,Alexandria,Louisiana,LA
+71359,Pineville,Louisiana,LA
+71457,Natchitoches,Louisiana,LA
+71601,Pine Bluff,Arkansas,AR
+71655,Monticello,Arkansas,AR
+71901,Hot Springs National Park,Arkansas,AR
+71923,Arkadelphia,Arkansas,AR
+72015,Benton,Arkansas,AR
+72032,Conway,Arkansas,AR
+72114,North Little Rock,Arkansas,AR
+72143,Searcy,Arkansas,AR
+72201,Little Rock,Arkansas,AR
+72401,Jonesboro,Arkansas,AR
+72701,Fayetteville,Arkansas,AR
+72756,Rogers,Arkansas,AR
+72762,Springdale,Arkansas,AR
+72801,Russellville,Arkansas,AR
+72901,Fort Smith,Arkansas,AR
+73003,Edmond,Oklahoma,OK
+73019,Norman,Oklahoma,OK
+73101,Oklahoma City,Oklahoma,OK
+73301,Austin,Texas,TX
+73401,Ardmore,Oklahoma,OK
+73501,Lawton,Oklahoma,OK
+73533,Duncan,Oklahoma,OK
+73701,Enid,Oklahoma,OK
+74003,Bartlesville,Oklahoma,OK
+74011,Broken Arrow,Oklahoma,OK
+74017,Claremore,Oklahoma,OK
+74074,Stillwater,Oklahoma,OK
+74101,Tulsa,Oklahoma,OK
+74401,Muskogee,Oklahoma,OK
+74601,Ponca City,Oklahoma,OK
+74801,Shawnee,Oklahoma,OK
+75006,Carrollton,Texas,TX
+75014,Irving,Texas,TX
+75022,Flower Mound,Texas,TX
+75023,Plano,Texas,TX
+75029,Lewisville,Texas,TX
+75030,Rowlett,Texas,TX
+75040,Garland,Texas,TX
+75050,Grand Prairie,Texas,TX
+75063,Irving,Texas,TX
+75069,McKinney,Texas,TX
+75080,Richardson,Texas,TX
+75090,Sherman,Texas,TX
+75109,Corsicana,Texas,TX
+75116,Duncanville,Texas,TX
+75149,Mesquite,Texas,TX
+75165,Waxahachie,Texas,TX
+75201,Dallas,Texas,TX
+75401,Greenville,Texas,TX
+75460,Paris,Texas,TX
+75462,Paris,Texas,TX
+75501,Texarkana,Texas,TX
+75601,Longview,Texas,TX
+75652,Henderson,Texas,TX
+75670,Marshall,Texas,TX
+75701,Tyler,Texas,TX
+75707,Tyler,Texas,TX
+75801,Palestine,Texas,TX
+75850,Leona,Texas,TX
+75852,Midway,Texas,TX
+75861,Tennessee Colony,Texas,TX
+75901,Lufkin,Texas,TX
+75961,Nacogdoches,Texas,TX
+76001,Arlington,Texas,TX
+76008,Aledo,Texas,TX
+76021,Bedford,Texas,TX
+76066,Millsap,Texas,TX
+76067,Mineral Wells,Texas,TX
+76082,Springtown,Texas,TX
+76085,Weatherford,Texas,TX
+76101,Fort Worth,Texas,TX
+76108,Fort Worth,Texas,TX
+76201,Denton,Texas,TX
+76301,Wichita Falls,Texas,TX
+76363,Goree,Texas,TX
+76371,Munday,Texas,TX
+76372,Newcastle,Texas,TX
+76374,Olney,Texas,TX
+76388,Weinert,Texas,TX
+76401,Stephenville,Texas,TX
+76424,Breckenridge,Texas,TX
+76427,Bryson,Texas,TX
+76429,Caddo,Texas,TX
+76430,Albany,Texas,TX
+76432,Blanket,Texas,TX
+76433,Bluff Dale,Texas,TX
+76435,Carbon,Texas,TX
+76437,Cisco,Texas,TX
+76439,Dennis,Texas,TX
+76442,Comanche,Texas,TX
+76443,Cross Plains,Texas,TX
+76444,De Leon,Texas,TX
+76445,Desdemona,Texas,TX
+76446,Dublin,Texas,TX
+76448,Eastland,Texas,TX
+76449,Graford,Texas,TX
+76450,Graham,Texas,TX
+76453,Gordon,Texas,TX
+76454,Gorman,Texas,TX
+76455,Gustine,Texas,TX
+76457,Hico,Texas,TX
+76458,Jacksboro,Texas,TX
+76459,Jermyn,Texas,TX
+76460,Loving,Texas,TX
+76461,Lingleville,Texas,TX
+76462,Lipan,Texas,TX
+76464,Moran,Texas,TX
+76465,Morgan Mill,Texas,TX
+76466,Olden,Texas,TX
+76468,Proctor,Texas,TX
+76469,Putnam,Texas,TX
+76470,Ranger,Texas,TX
+76471,Rising Star,Texas,TX
+76472,Santo,Texas,TX
+76475,Strawn,Texas,TX
+76481,South Bend,Texas,TX
+76483,Throckmorton,Texas,TX
+76484,Palo Pinto,Texas,TX
+76485,Peaster,Texas,TX
+76486,Perrin,Texas,TX
+76487,Poolville,Texas,TX
+76490,Whitt,Texas,TX
+76491,Woodson,Texas,TX
+76501,Temple,Texas,TX
+76528,Gatesville,Texas,TX
+76540,Killeen,Texas,TX
+76629,Bremond,Texas,TX
+76680,Reagan,Texas,TX
+76701,Waco,Texas,TX
+76801,Brownwood,Texas,TX
+76802,Early,Texas,TX
+76821,Ballinger,Texas,TX
+76823,Bangs,Texas,TX
+76824,Bend,Texas,TX
+76825,Brady,Texas,TX
+76827,Brookesmith,Texas,TX
+76832,Cherokee,Texas,TX
+76834,Coleman,Texas,TX
+76836,Doole,Texas,TX
+76837,Eden,Texas,TX
+76842,Fredonia,Texas,TX
+76844,Goldthwaite,Texas,TX
+76845,Gouldbusk,Texas,TX
+76848,Hext,Texas,TX
+76852,Lohn,Texas,TX
+76854,London,Texas,TX
+76855,Lowake,Texas,TX
+76856,Mason,Texas,TX
+76857,May,Texas,TX
+76858,Melvin,Texas,TX
+76859,Menard,Texas,TX
+76861,Miles,Texas,TX
+76862,Millersview,Texas,TX
+76864,Mullin,Texas,TX
+76865,Norton,Texas,TX
+76866,Paint Rock,Texas,TX
+76870,Priddy,Texas,TX
+76871,Richland Springs,Texas,TX
+76872,Rochelle,Texas,TX
+76873,Rockwood,Texas,TX
+76875,Rowena,Texas,TX
+76877,San Saba,Texas,TX
+76878,Santa Anna,Texas,TX
+76880,Star,Texas,TX
+76884,Valera,Texas,TX
+76887,Voca,Texas,TX
+76888,Voss,Texas,TX
+76890,Zephyr,Texas,TX
+76901,San Angelo,Texas,TX
+76908,Goodfellow Air Force Base,Texas,TX
+76930,Barnhart,Texas,TX
+76932,Big Lake,Texas,TX
+76933,Bronte,Texas,TX
+76934,Carlsbad,Texas,TX
+76935,Christoval,Texas,TX
+76936,Eldorado,Texas,TX
+76937,Eola,Texas,TX
+76939,Knickerbocker,Texas,TX
+76940,Mereta,Texas,TX
+76941,Mertzon,Texas,TX
+76943,Ozona,Texas,TX
+76945,Robert Lee,Texas,TX
+76949,Silver,Texas,TX
+76950,Sonora,Texas,TX
+76951,Sterling City,Texas,TX
+76955,Vancourt,Texas,TX
+76957,Wall,Texas,TX
+76958,Water Valley,Texas,TX
+77001,Houston,Texas,TX
+77096,Houston,Texas,TX
+77301,Conroe,Texas,TX
+77320,Huntsville,Texas,TX
+77325,Humble,Texas,TX
+77353,Magnolia,Texas,TX
+77363,Plantersville,Texas,TX
+77373,Spring,Texas,TX
+77410,Cypress,Texas,TX
+77449,Katy,Texas,TX
+77478,Sugar Land,Texas,TX
+77501,Pasadena,Texas,TX
+77520,Baytown,Texas,TX
+77550,Galveston,Texas,TX
+77581,Pearland,Texas,TX
+77587,South Houston,Texas,TX
+77590,Texas City,Texas,TX
+77630,Orange,Texas,TX
+77640,Port Arthur,Texas,TX
+77701,Beaumont,Texas,TX
+77801,Bryan,Texas,TX
+77830,Anderson,Texas,TX
+77831,Bedias,Texas,TX
+77833,Brenham,Texas,TX
+77835,Burton,Texas,TX
+77836,Caldwell,Texas,TX
+77837,Calvert,Texas,TX
+77838,Chriesman,Texas,TX
+77840,College Station,Texas,TX
+77852,Deanville,Texas,TX
+77856,Franklin,Texas,TX
+77859,Hearne,Texas,TX
+77861,Iola,Texas,TX
+77862,Kurten,Texas,TX
+77863,Lyons,Texas,TX
+77864,Madisonville,Texas,TX
+77866,Millican,Texas,TX
+77867,Mumford,Texas,TX
+77869,Navasota,Texas,TX
+77870,New Baden,Texas,TX
+77871,Normangee,Texas,TX
+77872,North Zulch,Texas,TX
+77873,Richards,Texas,TX
+77875,Roans Prairie,Texas,TX
+77876,Shiro,Texas,TX
+77878,Snook,Texas,TX
+77879,Somerville,Texas,TX
+77880,Washington,Texas,TX
+77881,Wellborn,Texas,TX
+77882,Wheelock,Texas,TX
+77901,Victoria,Texas,TX
+78001,Artesia Wells,Texas,TX
+78014,Cotulla,Texas,TX
+78019,Encinal,Texas,TX
+78021,Fowlerton,Texas,TX
+78040,Laredo,Texas,TX
+78067,San Ygnacio,Texas,TX
+78076,Zapata,Texas,TX
+78130,New Braunfels,Texas,TX
+78201,San Antonio,Texas,TX
+78344,Bruni,Texas,TX
+78360,Guerra,Texas,TX
+78361,Hebbronville,Texas,TX
+78369,Mirando City,Texas,TX
+78371,Oilton,Texas,TX
+78401,Corpus Christi,Texas,TX
+78501,McAllen,Texas,TX
+78520,Brownsville,Texas,TX
+78539,Edinburg,Texas,TX
+78550,Harlingen,Texas,TX
+78564,Lopeno,Texas,TX
+78572,Mission,Texas,TX
+78584,Roma,Texas,TX
+78626,Georgetown,Texas,TX
+78641,Leander,Texas,TX
+78664,Round Rock,Texas,TX
+78801,Uvalde,Texas,TX
+78827,Asherton,Texas,TX
+78828,Barksdale,Texas,TX
+78829,Batesville,Texas,TX
+78830,Big Wells,Texas,TX
+78832,Brackettville,Texas,TX
+78833,Camp Wood,Texas,TX
+78834,Carrizo Springs,Texas,TX
+78836,Catarina,Texas,TX
+78837,Comstock,Texas,TX
+78838,Concan,Texas,TX
+78839,Crystal City,Texas,TX
+78840,Del Rio,Texas,TX
+78843,Laughlin Air Force Base,Texas,TX
+78851,Dryden,Texas,TX
+78852,Eagle Pass,Texas,TX
+78860,El Indio,Texas,TX
+78870,Knippa,Texas,TX
+78871,Langtry,Texas,TX
+78872,La Pryor,Texas,TX
+78873,Leakey,Texas,TX
+78877,Quemado,Texas,TX
+78879,Rio Frio,Texas,TX
+78880,Rocksprings,Texas,TX
+78881,Sabinal,Texas,TX
+78884,Utopia,Texas,TX
+79021,Cotton Center,Texas,TX
+79027,Dimmitt,Texas,TX
+79032,Edmonson,Texas,TX
+79041,Hale Center,Texas,TX
+79043,Hart,Texas,TX
+79052,Kress,Texas,TX
+79063,Nazareth,Texas,TX
+79064,Olton,Texas,TX
+79072,Plainview,Texas,TX
+79088,Tulia,Texas,TX
+79101,Amarillo,Texas,TX
+79221,Aiken,Texas,TX
+79231,Dougherty,Texas,TX
+79235,Floydada,Texas,TX
+79241,Lockney,Texas,TX
+79250,Petersburg,Texas,TX
+79255,Quitaque,Texas,TX
+79257,Silverton,Texas,TX
+79258,South Plains,Texas,TX
+79311,Abernathy,Texas,TX
+79316,Brownfield,Texas,TX
+79360,Seminole,Texas,TX
+79376,Tokio,Texas,TX
+79401,Lubbock,Texas,TX
+79501,Anson,Texas,TX
+79502,Aspermont,Texas,TX
+79503,Avoca,Texas,TX
+79504,Baird,Texas,TX
+79506,Blackwell,Texas,TX
+79508,Buffalo Gap,Texas,TX
+79510,Clyde,Texas,TX
+79511,Coahoma,Texas,TX
+79512,Colorado City,Texas,TX
+79516,Dunn,Texas,TX
+79517,Fluvanna,Texas,TX
+79520,Hamlin,Texas,TX
+79521,Haskell,Texas,TX
+79525,Hawley,Texas,TX
+79526,Hermleigh,Texas,TX
+79529,Knox City,Texas,TX
+79530,Lawn,Texas,TX
+79532,Loraine,Texas,TX
+79533,Lueders,Texas,TX
+79535,Maryneal,Texas,TX
+79536,Merkel,Texas,TX
+79537,Nolan,Texas,TX
+79539,O'Brien,Texas,TX
+79540,Old Glory,Texas,TX
+79541,Ovalo,Texas,TX
+79543,Roby,Texas,TX
+79544,Rochester,Texas,TX
+79545,Roscoe,Texas,TX
+79546,Rotan,Texas,TX
+79547,Rule,Texas,TX
+79549,Snyder,Texas,TX
+79553,Stamford,Texas,TX
+79556,Sweetwater,Texas,TX
+79561,Trent,Texas,TX
+79562,Tuscola,Texas,TX
+79563,Tye,Texas,TX
+79565,Westbrook,Texas,TX
+79566,Wingate,Texas,TX
+79567,Winters,Texas,TX
+79601,Abilene,Texas,TX
+79607,Dyess Air Force Base,Texas,TX
+79701,Midland,Texas,TX
+79713,Ackerly,Texas,TX
+79714,Andrews,Texas,TX
+79718,Balmorhea,Texas,TX
+79719,Barstow,Texas,TX
+79720,Big Spring,Texas,TX
+79730,Coyanosa,Texas,TX
+79731,Crane,Texas,TX
+79733,Forsan,Texas,TX
+79734,Fort Davis,Texas,TX
+79735,Fort Stockton,Texas,TX
+79738,Gail,Texas,TX
+79739,Garden City,Texas,TX
+79740,Girvin,Texas,TX
+79741,Goldsmith,Texas,TX
+79742,Grandfalls,Texas,TX
+79743,Imperial,Texas,TX
+79745,Kermit,Texas,TX
+79748,Knott,Texas,TX
+79749,Lenorah,Texas,TX
+79752,Mc Camey,Texas,TX
+79754,Mentone,Texas,TX
+79755,Midkiff,Texas,TX
+79756,Monahans,Texas,TX
+79758,Gardendale,Texas,TX
+79759,Notrees,Texas,TX
+79760,Odessa,Texas,TX
+79770,Orla,Texas,TX
+79772,Pecos,Texas,TX
+79777,Pyote,Texas,TX
+79778,Rankin,Texas,TX
+79780,Saragosa,Texas,TX
+79781,Sheffield,Texas,TX
+79782,Stanton,Texas,TX
+79783,Tarzan,Texas,TX
+79785,Toyah,Texas,TX
+79786,Toyahvale,Texas,TX
+79788,Wickett,Texas,TX
+79789,Wink,Texas,TX
+79830,Alpine,Texas,TX
+79842,Marathon,Texas,TX
+79843,Marfa,Texas,TX
+79846,Redford,Texas,TX
+79848,Sanderson,Texas,TX
+79852,Terlingua,Texas,TX
+79854,Valentine,Texas,TX
+79901,El Paso,Texas,TX
+80001,Arvada,Colorado,CO
+80010,Aurora,Colorado,CO
+80020,Broomfield,Colorado,CO
+80030,Westminster,Colorado,CO
+80104,Castle Rock,Colorado,CO
+80110,Englewood,Colorado,CO
+80112,Englewood,Colorado,CO
+80120,Littleton,Colorado,CO
+80201,Denver,Colorado,CO
+80216,Denver,Colorado,CO
+80301,Boulder,Colorado,CO
+80401,Golden,Colorado,CO
+80477,Steamboat Springs,Colorado,CO
+80501,Longmont,Colorado,CO
+80521,Fort Collins,Colorado,CO
+80537,Loveland,Colorado,CO
+80601,Brighton,Colorado,CO
+80631,Greeley,Colorado,CO
+80901,Colorado Springs,Colorado,CO
+80931,Colorado Springs,Colorado,CO
+81001,Pueblo,Colorado,CO
+81212,Canon City,Colorado,CO
+81230,Gunnison,Colorado,CO
+81301,Durango,Colorado,CO
+81501,Grand Junction,Colorado,CO
+82001,Cheyenne,Wyoming,WY
+82070,Laramie,Wyoming,WY
+82601,Casper,Wyoming,WY
+82716,Gillette,Wyoming,WY
+83201,Pocatello,Idaho,ID
+83401,Idaho Falls,Idaho,ID
+83440,Rexburg,Idaho,ID
+83605,Caldwell,Idaho,ID
+83651,Nampa,Idaho,ID
+83701,Boise,Idaho,ID
+83709,Boise,Idaho,ID
+83814,Coeur d'Alene,Idaho,ID
+84015,Clearfield,Utah,UT
+84057,Orem,Utah,UT
+84060,Park City,Utah,UT
+84070,Sandy,Utah,UT
+84101,Salt Lake City,Utah,UT
+84201,Ogden,Utah,UT
+84321,Logan,Utah,UT
+84404,Ogden,Utah,UT
+84601,Provo,Utah,UT
+84770,Saint George,Utah,UT
+85001,Phoenix,Arizona,AZ
+85201,Mesa,Arizona,AZ
+85217,Apache Junction,Arizona,AZ
+85224,Chandler,Arizona,AZ
+85233,Gilbert,Arizona,AZ
+85250,Scottsdale,Arizona,AZ
+85280,Tempe,Arizona,AZ
+85301,Glendale,Arizona,AZ
+85345,Peoria,Arizona,AZ
+85351,Sun City,Arizona,AZ
+85364,Yuma,Arizona,AZ
+85374,Surprise,Arizona,AZ
+85607,Douglas,Arizona,AZ
+85621,Nogales,Arizona,AZ
+85635,Sierra Vista,Arizona,AZ
+85701,Tucson,Arizona,AZ
+86001,Flagstaff,Arizona,AZ
+86301,Prescott,Arizona,AZ
+86336,Sedona,Arizona,AZ
+86401,Kingman,Arizona,AZ
+86403,Lake Havasu City,Arizona,AZ
+86429,Bullhead City,Arizona,AZ
+87101,Albuquerque,New Mexico,NM
+87124,Rio Rancho,New Mexico,NM
+87301,Gallup,New Mexico,NM
+87401,Farmington,New Mexico,NM
+87501,Santa Fe,New Mexico,NM
+88001,Las Cruces,New Mexico,NM
+88201,Roswell,New Mexico,NM
+88240,Hobbs,New Mexico,NM
+88901,The Lakes,Nevada,NV
+89009,Henderson,Nevada,NV
+89030,North Las Vegas,Nevada,NV
+89041,Pahrump,Nevada,NV
+89101,Las Vegas,Nevada,NV
+89406,Fallon,Nevada,NV
+89431,Sparks,Nevada,NV
+89450,Incline Village,Nevada,NV
+89501,Reno,Nevada,NV
+89701,Carson City,Nevada,NV
+89801,Elko,Nevada,NV
+90001,Los Angeles,California,CA
+90042,Los Angeles,California,CA
+90209,Beverly Hills,California,CA
+90220,Compton,California,CA
+90230,Culver City,California,CA
+90239,Downey,California,CA
+90247,Gardena,California,CA
+90263,Malibu,California,CA
+90301,Inglewood,California,CA
+90401,Santa Monica,California,CA
+90501,Torrance,California,CA
+90601,Whittier,California,CA
+90620,Buena Park,California,CA
+90631,La Habra,California,CA
+90637,La Mirada,California,CA
+90650,Norwalk,California,CA
+90660,Pico Rivera,California,CA
+90711,Lakewood,California,CA
+90720,Los Alamitos,California,CA
+90731,San Pedro,California,CA
+90745,Carson,California,CA
+90801,Long Beach,California,CA
+91006,Arcadia,California,CA
+91101,Pasadena,California,CA
+91201,Glendale,California,CA
+91303,Canoga Park,California,CA
+91311,Chatsworth,California,CA
+91316,Encino,California,CA
+91324,Northridge,California,CA
+91331,Pacoima,California,CA
+91345,Mission Hills,California,CA
+91350,Santa Clarita,California,CA
+91351,Canyon Country,California,CA
+91354,Valencia,California,CA
+91358,Thousand Oaks,California,CA
+91359,Westlake Village,California,CA
+91364,Woodland Hills,California,CA
+91388,Van Nuys,California,CA
+91403,Sherman Oaks,California,CA
+91501,Burbank,California,CA
+91601,North Hollywood,California,CA
+91701,Rancho Cucamonga,California,CA
+91702,Azusa,California,CA
+91714,City of Industry,California,CA
+91722,Covina,California,CA
+91731,El Monte,California,CA
+91744,La Puente,California,CA
+91754,Monterey Park,California,CA
+91758,Ontario,California,CA
+91766,Pomona,California,CA
+91770,Rosemead,California,CA
+91775,San Gabriel,California,CA
+91784,Upland,California,CA
+91788,Walnut,California,CA
+91790,West Covina,California,CA
+91801,Alhambra,California,CA
+91909,Chula Vista,California,CA
+91941,La Mesa,California,CA
+91976,Spring Valley,California,CA
+92008,Carlsbad,California,CA
+92019,El Cajon,California,CA
+92025,Escondido,California,CA
+92037,La Jolla,California,CA
+92049,Oceanside,California,CA
+92069,San Marcos,California,CA
+92081,Vista,California,CA
+92101,San Diego,California,CA
+92105,San Diego,California,CA
+92201,Indio,California,CA
+92211,Palm Desert,California,CA
+92247,La Quinta,California,CA
+92262,Palm Springs,California,CA
+92334,Fontana,California,CA
+92340,Hesperia,California,CA
+92350,Loma Linda,California,CA
+92373,Redlands,California,CA
+92392,Victorville,California,CA
+92401,San Bernardino,California,CA
+92501,Riverside,California,CA
+92530,Lake Elsinore,California,CA
+92543,Hemet,California,CA
+92551,Moreno Valley,California,CA
+92562,Murrieta,California,CA
+92570,Perris,California,CA
+92581,San Jacinto,California,CA
+92585,Sun City,California,CA
+92589,Temecula,California,CA
+92602,Irvine,California,CA
+92605,Huntington Beach,California,CA
+92626,Costa Mesa,California,CA
+92658,Newport Beach,California,CA
+92672,San Clemente,California,CA
+92675,San Juan Capistrano,California,CA
+92683,Westminster,California,CA
+92690,Mission Viejo,California,CA
+92701,Santa Ana,California,CA
+92780,Tustin,California,CA
+92801,Anaheim,California,CA
+92821,Brea,California,CA
+92831,Fullerton,California,CA
+92840,Garden Grove,California,CA
+92856,Orange,California,CA
+92877,Corona,California,CA
+92885,Yorba Linda,California,CA
+93001,Ventura,California,CA
+93010,Camarillo,California,CA
+93030,Oxnard,California,CA
+93062,Simi Valley,California,CA
+93101,Santa Barbara,California,CA
+93116,Goleta,California,CA
+93277,Visalia,California,CA
+93301,Bakersfield,California,CA
+93401,San Luis Obispo,California,CA
+93436,Lompoc,California,CA
+93454,Santa Maria,California,CA
+93534,Lancaster,California,CA
+93550,Palmdale,California,CA
+93611,Clovis,California,CA
+93637,Madera,California,CA
+93650,Fresno,California,CA
+93657,Sanger,California,CA
+93901,Salinas,California,CA
+93940,Monterey,California,CA
+94010,Burlingame,California,CA
+94013,Daly City,California,CA
+94022,Los Altos,California,CA
+94025,Menlo Park,California,CA
+94035,Mountain View,California,CA
+94059,Redwood City,California,CA
+94066,San Bruno,California,CA
+94080,South San Francisco,California,CA
+94085,Sunnyvale,California,CA
+94101,San Francisco,California,CA
+94105,San Francisco,California,CA
+94203,Sacramento,California,CA
+94301,Palo Alto,California,CA
+94401,San Mateo,California,CA
+94518,Concord,California,CA
+94536,Fremont,California,CA
+94540,Hayward,California,CA
+94556,Moraga,California,CA
+94558,Napa,California,CA
+94577,San Leandro,California,CA
+94588,Pleasanton,California,CA
+94589,Vallejo,California,CA
+94595,Walnut Creek,California,CA
+94598,Walnut Creek,California,CA
+94601,Oakland,California,CA
+94701,Berkeley,California,CA
+94801,Richmond,California,CA
+94901,San Rafael,California,CA
+94945,Novato,California,CA
+94952,Petaluma,California,CA
+95008,Campbell,California,CA
+95030,Los Gatos,California,CA
+95050,Santa Clara,California,CA
+95060,Santa Cruz,California,CA
+95101,San Jose,California,CA
+95201,Stockton,California,CA
+95240,Lodi,California,CA
+95304,Tracy,California,CA
+95340,Merced,California,CA
+95350,Modesto,California,CA
+95380,Turlock,California,CA
+95401,Santa Rosa,California,CA
+95501,Eureka,California,CA
+95602,Auburn,California,CA
+95605,West Sacramento,California,CA
+95610,Citrus Heights,California,CA
+95624,Elk Grove,California,CA
+95661,Roseville,California,CA
+95670,Rancho Cordova,California,CA
+95687,Vacaville,California,CA
+95926,Chico,California,CA
+95991,Yuba City,California,CA
+96001,Redding,California,CA
+96019,Shasta Lake,California,CA
+96150,South Lake Tahoe,California,CA
+96160,Truckee,California,CA
+96206,FPO,Armed Forces - Pacific,AP
+96801,Honolulu,Hawaii,HI
+97004,Beavercreek,Oregon,OR
+97005,Beaverton,Oregon,OR
+97013,Canby,Oregon,OR
+97015,Clackamas,Oregon,OR
+97019,Corbett,Oregon,OR
+97027,Gladstone,Oregon,OR
+97035,Lake Oswego,Oregon,OR
+97037,Maupin,Oregon,OR
+97055,Sandy,Oregon,OR
+97060,Troutdale,Oregon,OR
+97062,Tualatin,Oregon,OR
+97068,West Linn,Oregon,OR
+97103,Astoria,Oregon,OR
+97124,Hillsboro,Oregon,OR
+97128,McMinnville,Oregon,OR
+97133,North Plains,Oregon,OR
+97136,Rockaway Beach,Oregon,OR
+97138,Seaside,Oregon,OR
+97200,Portland,Oregon,OR
+97301,Salem,Oregon,OR
+97302,Salem,Oregon,OR
+97330,Corvallis,Oregon,OR
+97401,Eugene,Oregon,OR
+97402,Eugene,Oregon,OR
+97526,Grants Pass,Oregon,OR
+97601,Klamath Falls,Oregon,OR
+97701,Bend,Oregon,OR
+97756,Redmond,Oregon,OR
+98001,Auburn,Washington,WA
+98003,Federal Way,Washington,WA
+98004,Bellevue,Washington,WA
+98010,Black Diamond,Washington,WA
+98011,Bothell,Washington,WA
+98013,Burton,Washington,WA
+98014,Carnation,Washington,WA
+98019,Duvall,Washington,WA
+98020,Edmonds,Washington,WA
+98022,Enumclaw,Washington,WA
+98024,Fall City,Washington,WA
+98027,Issaquah,Washington,WA
+98028,Kenmore,Washington,WA
+98030,Kent,Washington,WA
+98033,Kirkland,Washington,WA
+98036,Lynnwood,Washington,WA
+98038,Maple Valley,Washington,WA
+98039,Medina,Washington,WA
+98040,Mercer Island,Washington,WA
+98043,Mountlake Terrace,Washington,WA
+98045,North Bend,Washington,WA
+98047,Pacific,Washington,WA
+98050,Preston,Washington,WA
+98051,Ravensdale,Washington,WA
+98052,Redmond,Washington,WA
+98055,Renton,Washington,WA
+98065,Snoqualmie,Washington,WA
+98070,Vashon,Washington,WA
+98072,Woodinville,Washington,WA
+98074,Sammamish,Washington,WA
+98101,Seattle,Washington,WA
+98110,Bainbridge Island,Washington,WA
+98201,Everett,Washington,WA
+98221,Anacortes,Washington,WA
+98223,Arlington,Washington,WA
+98225,Bellingham,Washington,WA
+98230,Blaine,Washington,WA
+98232,Bow,Washington,WA
+98233,Burlington,Washington,WA
+98248,Ferndale,Washington,WA
+98257,La Conner,Washington,WA
+98258,Lake Stevens,Washington,WA
+98261,Lopez Island,Washington,WA
+98266,Maple Falls,Washington,WA
+98270,Marysville,Washington,WA
+98272,Monroe,Washington,WA
+98273,Mount Vernon,Washington,WA
+98275,Mukilteo,Washington,WA
+98277,Oak Harbor,Washington,WA
+98280,Orcas,Washington,WA
+98282,Camano Island,Washington,WA
+98290,Snohomish,Washington,WA
+98292,Stanwood,Washington,WA
+98294,Sultan,Washington,WA
+98310,Bremerton,Washington,WA
+98321,Buckley,Washington,WA
+98328,Eatonville,Washington,WA
+98329,Gig Harbor,Washington,WA
+98330,Elbe,Washington,WA
+98335,Gig Harbor,Washington,WA
+98338,Graham,Washington,WA
+98354,Milton,Washington,WA
+98359,Olalla,Washington,WA
+98360,Orting,Washington,WA
+98362,Port Angeles,Washington,WA
+98366,Port Orchard,Washington,WA
+98368,Port Townsend,Washington,WA
+98370,Poulsbo,Washington,WA
+98371,Puyallup,Washington,WA
+98382,Sequim,Washington,WA
+98383,Silverdale,Washington,WA
+98387,Spanaway,Washington,WA
+98390,Sumner,Washington,WA
+98391,Bonney Lake,Washington,WA
+98396,Wilkeson,Washington,WA
+98401,Tacoma,Washington,WA
+98439,Lakewood,Washington,WA
+98467,University Place,Washington,WA
+98498,Lakewood,Washington,WA
+98501,Olympia,Washington,WA
+98503,Lacey,Washington,WA
+98520,Aberdeen,Washington,WA
+98524,Allyn,Washington,WA
+98531,Centralia,Washington,WA
+98532,Chehalis,Washington,WA
+98576,Rainier,Washington,WA
+98579,Rochester,Washington,WA
+98584,Shelton,Washington,WA
+98589,Tenino,Washington,WA
+98592,Union,Washington,WA
+98597,Yelm,Washington,WA
+98620,Goldendale,Washington,WA
+98626,Kelso,Washington,WA
+98632,Longview,Washington,WA
+98642,Ridgefield,Washington,WA
+98648,Stevenson,Washington,WA
+98660,Vancouver,Washington,WA
+98801,Wenatchee,Washington,WA
+98802,East Wenatchee,Washington,WA
+98815,Cashmere,Washington,WA
+98826,Leavenworth,Washington,WA
+98833,Mazama,Washington,WA
+98847,Peshastin,Washington,WA
+98901,Yakima,Washington,WA
+98902,Yakima,Washington,WA
+98926,Ellensburg,Washington,WA
+98936,Moxee,Washington,WA
+99001,Airway Heights,Washington,WA
+99163,Pullman,Washington,WA
+99201,Spokane,Washington,WA
+99336,Kennewick,Washington,WA
+99356,Roosevelt,Washington,WA
+99501,Anchorage,Alaska,AK
+99615,Kodiak,Alaska,AK
+99629,Wasilla,Alaska,AK
+99701,Fairbanks,Alaska,AK
+99801,Juneau,Alaska,AK
+99824,Douglas,Alaska,AK
