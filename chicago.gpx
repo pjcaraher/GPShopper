@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0">
+	<name>Chicago gpx</name>
+	<wpt lat="41.8819" lon="-87.6278">
+		<ele>900</ele>
+		<name>Chicago</name>
+	</wpt>
+</gpx>

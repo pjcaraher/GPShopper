@@ -32,10 +32,10 @@
 		2EF9B0C8198A81A200D789F2 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0C7198A81A200D789F2 /* SystemConfiguration.framework */; };
 		2EF9B0D2198A96C900D789F2 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0D1198A96C900D789F2 /* AddressBook.framework */; };
 		2EF9B0D6198A96F000D789F2 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0D5198A96F000D789F2 /* MessageUI.framework */; };
-		2EF9B0D8198A9B3800D789F2 /* chicago.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0D7198A9B3800D789F2 /* chicago.gpx */; };
 		2EF9B0DA198A9B9200D789F2 /* city_list.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0D9198A9B9200D789F2 /* city_list.txt */; };
 		2EF9B0E0198ABD9100D789F2 /* SCDemoStoreTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0DF198ABD9100D789F2 /* SCDemoStoreTableCell.xib */; };
 		2EF9B0E2198ABF2200D789F2 /* SCStoreInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0E1198ABF2200D789F2 /* SCStoreInfoViewController.xib */; };
+		2EF9B0E4198AEE3200D789F2 /* chicago.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0E3198AEE3200D789F2 /* chicago.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,10 +83,10 @@
 		2EF9B0D1198A96C900D789F2 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
 		2EF9B0D3198A96D900D789F2 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
 		2EF9B0D5198A96F000D789F2 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
-		2EF9B0D7198A9B3800D789F2 /* chicago.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = chicago.gpx; path = ../../../Desktop/Locations/chicago.gpx; sourceTree = "<group>"; };
 		2EF9B0D9198A9B9200D789F2 /* city_list.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = city_list.txt; path = ../../../../workarea/shoecarnival/shoecarnival/shoecarnival/city_list.txt; sourceTree = "<group>"; };
 		2EF9B0DF198ABD9100D789F2 /* SCDemoStoreTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SCDemoStoreTableCell.xib; sourceTree = "<group>"; };
 		2EF9B0E1198ABF2200D789F2 /* SCStoreInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SCStoreInfoViewController.xib; sourceTree = "<group>"; };
+		2EF9B0E3198AEE3200D789F2 /* chicago.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = chicago.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,7 +124,7 @@
 		2EF9B073198A7CC700D789F2 = {
 			isa = PBXGroup;
 			children = (
-				2EF9B0D7198A9B3800D789F2 /* chicago.gpx */,
+				2EF9B0E3198AEE3200D789F2 /* chicago.gpx */,
 				2EF9B0BD198A817900D789F2 /* GPShopper.framework */,
 				2EF9B085198A7CC700D789F2 /* GPShopper */,
 				2EF9B0A7198A7CC700D789F2 /* GPShopperTests */,
@@ -299,9 +299,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EF9B09B198A7CC700D789F2 /* Images.xcassets in Resources */,
+				2EF9B0E4198AEE3200D789F2 /* chicago.gpx in Resources */,
 				2EF9B0E2198ABF2200D789F2 /* SCStoreInfoViewController.xib in Resources */,
 				2EF9B08A198A7CC700D789F2 /* InfoPlist.strings in Resources */,
-				2EF9B0D8198A9B3800D789F2 /* chicago.gpx in Resources */,
 				2EF9B0E0198ABD9100D789F2 /* SCDemoStoreTableCell.xib in Resources */,
 				2EF9B0DA198A9B9200D789F2 /* city_list.txt in Resources */,
 				2EF9B093198A7CC700D789F2 /* Main.storyboard in Resources */,
@@ -543,6 +543,7 @@
 				2EF9B0B3198A7CC700D789F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2EF9B0B4198A7CC700D789F2 /* Build configuration list for PBXNativeTarget "GPShopperTests" */ = {
 			isa = XCConfigurationList;
@@ -551,6 +552,7 @@
 				2EF9B0B6198A7CC700D789F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
