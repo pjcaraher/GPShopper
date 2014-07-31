@@ -9,7 +9,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
-	<string>gpshopper.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>com.gpshopper.gpshopper</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -22,8 +22,16 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>GPSSDKDeveloperKey</key>
+	<string>secret</string>
+	<key>GPSSDKDeveloperName</key>
+	<string>GPShopper</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>SCClientTypeId</key>
+	<string>159</string>
+	<key>SCHostName</key>
+	<string>sdk.gpshopper.com</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -43,8 +51,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 </dict>
 </plist>

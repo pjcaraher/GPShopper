@@ -14,14 +14,28 @@
 		2EF9B08C198A7CC700D789F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B08B198A7CC700D789F2 /* main.m */; };
 		2EF9B090198A7CC700D789F2 /* GPSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B08F198A7CC700D789F2 /* GPSAppDelegate.m */; };
 		2EF9B093198A7CC700D789F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B091198A7CC700D789F2 /* Main.storyboard */; };
-		2EF9B096198A7CC700D789F2 /* GPSFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B095198A7CC700D789F2 /* GPSFirstViewController.m */; };
-		2EF9B099198A7CC700D789F2 /* GPSSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B098198A7CC700D789F2 /* GPSSecondViewController.m */; };
+		2EF9B096198A7CC700D789F2 /* GPSHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B095198A7CC700D789F2 /* GPSHomeViewController.m */; };
+		2EF9B099198A7CC700D789F2 /* GPSBrowseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B098198A7CC700D789F2 /* GPSBrowseViewController.m */; };
 		2EF9B09B198A7CC700D789F2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B09A198A7CC700D789F2 /* Images.xcassets */; };
 		2EF9B0A2198A7CC700D789F2 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0A1198A7CC700D789F2 /* XCTest.framework */; };
 		2EF9B0A3198A7CC700D789F2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B07F198A7CC700D789F2 /* Foundation.framework */; };
 		2EF9B0A4198A7CC700D789F2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B083198A7CC700D789F2 /* UIKit.framework */; };
 		2EF9B0AC198A7CC700D789F2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0AA198A7CC700D789F2 /* InfoPlist.strings */; };
 		2EF9B0AE198A7CC700D789F2 /* GPShopperTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B0AD198A7CC700D789F2 /* GPShopperTests.m */; };
+		2EF9B0B9198A7E4E00D789F2 /* GPSStoresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B0B8198A7E4E00D789F2 /* GPSStoresViewController.m */; };
+		2EF9B0BC198A7F8700D789F2 /* GPSMoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EF9B0BB198A7F8700D789F2 /* GPSMoreViewController.m */; };
+		2EF9B0BE198A817900D789F2 /* GPShopper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0BD198A817900D789F2 /* GPShopper.framework */; };
+		2EF9B0C0198A818700D789F2 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0BF198A818700D789F2 /* libz.dylib */; };
+		2EF9B0C2198A819100D789F2 /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0C1198A819100D789F2 /* libc++.dylib */; };
+		2EF9B0C4198A819600D789F2 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0C3198A819600D789F2 /* CoreLocation.framework */; };
+		2EF9B0C6198A819B00D789F2 /* CoreBluetooth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0C5198A819B00D789F2 /* CoreBluetooth.framework */; };
+		2EF9B0C8198A81A200D789F2 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0C7198A81A200D789F2 /* SystemConfiguration.framework */; };
+		2EF9B0D2198A96C900D789F2 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0D1198A96C900D789F2 /* AddressBook.framework */; };
+		2EF9B0D6198A96F000D789F2 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EF9B0D5198A96F000D789F2 /* MessageUI.framework */; };
+		2EF9B0D8198A9B3800D789F2 /* chicago.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0D7198A9B3800D789F2 /* chicago.gpx */; };
+		2EF9B0DA198A9B9200D789F2 /* city_list.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0D9198A9B9200D789F2 /* city_list.txt */; };
+		2EF9B0E0198ABD9100D789F2 /* SCDemoStoreTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0DF198ABD9100D789F2 /* SCDemoStoreTableCell.xib */; };
+		2EF9B0E2198ABF2200D789F2 /* SCStoreInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2EF9B0E1198ABF2200D789F2 /* SCStoreInfoViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,16 +60,33 @@
 		2EF9B08E198A7CC700D789F2 /* GPSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSAppDelegate.h; sourceTree = "<group>"; };
 		2EF9B08F198A7CC700D789F2 /* GPSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSAppDelegate.m; sourceTree = "<group>"; };
 		2EF9B092198A7CC700D789F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2EF9B094198A7CC700D789F2 /* GPSFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSFirstViewController.h; sourceTree = "<group>"; };
-		2EF9B095198A7CC700D789F2 /* GPSFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSFirstViewController.m; sourceTree = "<group>"; };
-		2EF9B097198A7CC700D789F2 /* GPSSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSSecondViewController.h; sourceTree = "<group>"; };
-		2EF9B098198A7CC700D789F2 /* GPSSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSSecondViewController.m; sourceTree = "<group>"; };
+		2EF9B094198A7CC700D789F2 /* GPSHomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSHomeViewController.h; sourceTree = "<group>"; };
+		2EF9B095198A7CC700D789F2 /* GPSHomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSHomeViewController.m; sourceTree = "<group>"; };
+		2EF9B097198A7CC700D789F2 /* GPSBrowseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GPSBrowseViewController.h; sourceTree = "<group>"; };
+		2EF9B098198A7CC700D789F2 /* GPSBrowseViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPSBrowseViewController.m; sourceTree = "<group>"; };
 		2EF9B09A198A7CC700D789F2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		2EF9B0A0198A7CC700D789F2 /* GPShopperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GPShopperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EF9B0A1198A7CC700D789F2 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		2EF9B0A9198A7CC700D789F2 /* GPShopperTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GPShopperTests-Info.plist"; sourceTree = "<group>"; };
 		2EF9B0AB198A7CC700D789F2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2EF9B0AD198A7CC700D789F2 /* GPShopperTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GPShopperTests.m; sourceTree = "<group>"; };
+		2EF9B0B7198A7E4E00D789F2 /* GPSStoresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPSStoresViewController.h; sourceTree = "<group>"; };
+		2EF9B0B8198A7E4E00D789F2 /* GPSStoresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GPSStoresViewController.m; sourceTree = "<group>"; };
+		2EF9B0BA198A7F8700D789F2 /* GPSMoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPSMoreViewController.h; sourceTree = "<group>"; };
+		2EF9B0BB198A7F8700D789F2 /* GPSMoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GPSMoreViewController.m; sourceTree = "<group>"; };
+		2EF9B0BD198A817900D789F2 /* GPShopper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GPShopper.framework; sourceTree = "<group>"; };
+		2EF9B0BF198A818700D789F2 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		2EF9B0C1198A819100D789F2 /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		2EF9B0C3198A819600D789F2 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		2EF9B0C5198A819B00D789F2 /* CoreBluetooth.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreBluetooth.framework; path = System/Library/Frameworks/CoreBluetooth.framework; sourceTree = SDKROOT; };
+		2EF9B0C7198A81A200D789F2 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		2EF9B0D1198A96C900D789F2 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		2EF9B0D3198A96D900D789F2 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		2EF9B0D5198A96F000D789F2 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		2EF9B0D7198A9B3800D789F2 /* chicago.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = chicago.gpx; path = ../../../Desktop/Locations/chicago.gpx; sourceTree = "<group>"; };
+		2EF9B0D9198A9B9200D789F2 /* city_list.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = city_list.txt; path = ../../../../workarea/shoecarnival/shoecarnival/shoecarnival/city_list.txt; sourceTree = "<group>"; };
+		2EF9B0DF198ABD9100D789F2 /* SCDemoStoreTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SCDemoStoreTableCell.xib; sourceTree = "<group>"; };
+		2EF9B0E1198ABF2200D789F2 /* SCStoreInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SCStoreInfoViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,9 +94,17 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EF9B0D6198A96F000D789F2 /* MessageUI.framework in Frameworks */,
+				2EF9B0D2198A96C900D789F2 /* AddressBook.framework in Frameworks */,
+				2EF9B0C8198A81A200D789F2 /* SystemConfiguration.framework in Frameworks */,
+				2EF9B0C6198A819B00D789F2 /* CoreBluetooth.framework in Frameworks */,
+				2EF9B0C4198A819600D789F2 /* CoreLocation.framework in Frameworks */,
+				2EF9B0C2198A819100D789F2 /* libc++.dylib in Frameworks */,
+				2EF9B0C0198A818700D789F2 /* libz.dylib in Frameworks */,
 				2EF9B082198A7CC700D789F2 /* CoreGraphics.framework in Frameworks */,
 				2EF9B084198A7CC700D789F2 /* UIKit.framework in Frameworks */,
 				2EF9B080198A7CC700D789F2 /* Foundation.framework in Frameworks */,
+				2EF9B0BE198A817900D789F2 /* GPShopper.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +124,8 @@
 		2EF9B073198A7CC700D789F2 = {
 			isa = PBXGroup;
 			children = (
+				2EF9B0D7198A9B3800D789F2 /* chicago.gpx */,
+				2EF9B0BD198A817900D789F2 /* GPShopper.framework */,
 				2EF9B085198A7CC700D789F2 /* GPShopper */,
 				2EF9B0A7198A7CC700D789F2 /* GPShopperTests */,
 				2EF9B07E198A7CC700D789F2 /* Frameworks */,
@@ -104,6 +145,14 @@
 		2EF9B07E198A7CC700D789F2 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2EF9B0D5198A96F000D789F2 /* MessageUI.framework */,
+				2EF9B0D3198A96D900D789F2 /* AddressBookUI.framework */,
+				2EF9B0D1198A96C900D789F2 /* AddressBook.framework */,
+				2EF9B0C7198A81A200D789F2 /* SystemConfiguration.framework */,
+				2EF9B0C5198A819B00D789F2 /* CoreBluetooth.framework */,
+				2EF9B0C3198A819600D789F2 /* CoreLocation.framework */,
+				2EF9B0C1198A819100D789F2 /* libc++.dylib */,
+				2EF9B0BF198A818700D789F2 /* libz.dylib */,
 				2EF9B07F198A7CC700D789F2 /* Foundation.framework */,
 				2EF9B081198A7CC700D789F2 /* CoreGraphics.framework */,
 				2EF9B083198A7CC700D789F2 /* UIKit.framework */,
@@ -115,13 +164,18 @@
 		2EF9B085198A7CC700D789F2 /* GPShopper */ = {
 			isa = PBXGroup;
 			children = (
+				2EF9B0DC198AB90D00D789F2 /* Views */,
 				2EF9B08E198A7CC700D789F2 /* GPSAppDelegate.h */,
 				2EF9B08F198A7CC700D789F2 /* GPSAppDelegate.m */,
 				2EF9B091198A7CC700D789F2 /* Main.storyboard */,
-				2EF9B094198A7CC700D789F2 /* GPSFirstViewController.h */,
-				2EF9B095198A7CC700D789F2 /* GPSFirstViewController.m */,
-				2EF9B097198A7CC700D789F2 /* GPSSecondViewController.h */,
-				2EF9B098198A7CC700D789F2 /* GPSSecondViewController.m */,
+				2EF9B094198A7CC700D789F2 /* GPSHomeViewController.h */,
+				2EF9B095198A7CC700D789F2 /* GPSHomeViewController.m */,
+				2EF9B097198A7CC700D789F2 /* GPSBrowseViewController.h */,
+				2EF9B098198A7CC700D789F2 /* GPSBrowseViewController.m */,
+				2EF9B0B7198A7E4E00D789F2 /* GPSStoresViewController.h */,
+				2EF9B0B8198A7E4E00D789F2 /* GPSStoresViewController.m */,
+				2EF9B0BA198A7F8700D789F2 /* GPSMoreViewController.h */,
+				2EF9B0BB198A7F8700D789F2 /* GPSMoreViewController.m */,
 				2EF9B09A198A7CC700D789F2 /* Images.xcassets */,
 				2EF9B086198A7CC700D789F2 /* Supporting Files */,
 			);
@@ -131,6 +185,7 @@
 		2EF9B086198A7CC700D789F2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				2EF9B0D9198A9B9200D789F2 /* city_list.txt */,
 				2EF9B087198A7CC700D789F2 /* GPShopper-Info.plist */,
 				2EF9B088198A7CC700D789F2 /* InfoPlist.strings */,
 				2EF9B08B198A7CC700D789F2 /* main.m */,
@@ -155,6 +210,15 @@
 				2EF9B0AA198A7CC700D789F2 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2EF9B0DC198AB90D00D789F2 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2EF9B0E1198ABF2200D789F2 /* SCStoreInfoViewController.xib */,
+				2EF9B0DF198ABD9100D789F2 /* SCDemoStoreTableCell.xib */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,7 +299,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EF9B09B198A7CC700D789F2 /* Images.xcassets in Resources */,
+				2EF9B0E2198ABF2200D789F2 /* SCStoreInfoViewController.xib in Resources */,
 				2EF9B08A198A7CC700D789F2 /* InfoPlist.strings in Resources */,
+				2EF9B0D8198A9B3800D789F2 /* chicago.gpx in Resources */,
+				2EF9B0E0198ABD9100D789F2 /* SCDemoStoreTableCell.xib in Resources */,
+				2EF9B0DA198A9B9200D789F2 /* city_list.txt in Resources */,
 				2EF9B093198A7CC700D789F2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,9 +324,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EF9B08C198A7CC700D789F2 /* main.m in Sources */,
-				2EF9B099198A7CC700D789F2 /* GPSSecondViewController.m in Sources */,
+				2EF9B099198A7CC700D789F2 /* GPSBrowseViewController.m in Sources */,
+				2EF9B0BC198A7F8700D789F2 /* GPSMoreViewController.m in Sources */,
 				2EF9B090198A7CC700D789F2 /* GPSAppDelegate.m in Sources */,
-				2EF9B096198A7CC700D789F2 /* GPSFirstViewController.m in Sources */,
+				2EF9B096198A7CC700D789F2 /* GPSHomeViewController.m in Sources */,
+				2EF9B0B9198A7E4E00D789F2 /* GPSStoresViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,10 +453,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GPShopper/GPShopper-Prefix.pch";
 				INFOPLIST_FILE = "GPShopper/GPShopper-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "04D3D1B2-A054-4DBB-9B64-EBB507ABE9DE";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -396,10 +471,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GPShopper/GPShopper-Prefix.pch";
 				INFOPLIST_FILE = "GPShopper/GPShopper-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "B983DE64-5552-4F0D-9EBE-244063BC7152";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
